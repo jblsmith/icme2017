@@ -1,0 +1,563 @@
+video_id	query_id	query_artist	query_title	video_title	detected_names	detected_genres	detected_inst	detected_place	detected_date	search_tier	search_rank	log_search_rank	lead_search_term	true_audio_content	true_video_content	search_term_estimated_AC	search_term_estimated_VC	is_official_video	initial_ST_prediction_AC	STVA_prediction_AC	STV_prediction_VC
+DqRC5tquyU0	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know  (Lyrics)						0	1.0	0.0	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+toHUpXZRgTQ	0	gotye	somebody that i used to know	Gotye and Kimbra - Somebody That I Used To Know (Karaoke Version)						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+8V6Z41UyHOE	0	gotye	somebody that i used to know	GOTYE - Somebody That I Used To Know (Feat. Kimbra) - Live at the 2011 ARIA's					2011	0	1.0	0.0	concert	live	live	live	live	nothing	live	live	live
+2F52daJLbUo	0	gotye	somebody that i used to know	Somebody That I Used to Know - Gotye | Anthony Lee Choreography	anthony lee					0	1.0	0.0	choreo	official	dance	official	dance	nothing	official	official	dance
+6YzGOq42zLk	0	gotye	somebody that i used to know	"Gotye performing ""Somebody That I Used To Know"" on KCRW"						0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+SabPvySY5n8	0	gotye	somebody that i used to know	Somebody That I Used To Know - Gotye Guitar Tutorial/Chords (No Capo)			guitar			0	1.0	0.0	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+fxfTL8etjAY	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know ft. Kimbra (KDrew Dubstep Remix)		dubstep				0	1.0	0.0	remix	remix	still	remix	still	nothing	remix	remix	still
+8UVNT4wvIGY	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (feat. Kimbra) - official video						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+X-Hog1jwVVs	0	gotye	somebody that i used to know	Gotye - Somebody That I Used to Know for Piano Solo HD			piano			0	1.0	0.0	piano	cover	live	cover	live	nothing	cover	cover	live
+hOKuAigsrec	0	gotye	somebody that i used to know	Somebody That I Used To Know - Pentatonix (Gotye cover)						0	2.0	0.69314718056	cover	cover	live	cover	live	nothing	cover	cover	live
+sRzPD1TihjY	0	gotye	somebody that i used to know	Somebody That I Used to Know- Piano Lesson Gotye (Todd Downing)	todd		piano			0	2.0	0.69314718056	piano	tutorial	tutorial	cover	live	nothing	cover	cover	tutorial
+-d_PZikUT2I	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (Feat. Kimbra) (4FRNT Remix)						0	2.0	0.69314718056	remix	remix	still	remix	still	nothing	remix	remix	still
+CyujIwbSce0	0	gotye	somebody that i used to know	Gotye - Somebody That I Used to Know - Karaoke with Lyrics on Screen & Backing Vocals						0	2.0	0.69314718056	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+nHzzyH0egaA	0	gotye	somebody that i used to know	Gotye feat Kimbra - Somebody That I Used To Know contemporary by Vasya Kozar - Dance Centre Myway						0	2.0	0.69314718056	dance	official	dance	official	dance	nothing	official	official	dance
+te0Q1XwaTyo	0	gotye	somebody that i used to know	Somebody That I Used To Know  Live - Gotye and Kimbra (April 2  Michigan)				michigan	2016/4/2	0	3.0	1.09861228867	concert	live	live	live	live	nothing	live	live	live
+UXL_O5azpbE	0	gotye	somebody that i used to know	Somebody That I Used To Know - Free Tutorial - Fingerstyle cover - Michael Chapdelaine - tab	michael					0	12.0	2.48490664979	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	cover	tutorial	live
+miyx7UJXDMM	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (Acoustic Jake Coco and Madilyn Bailey Cover) on iTunes	jake bailey					1	15.0	2.7080502011	cover	cover	live	cover	live	nothing	cover	cover	live
+cbnxsPmS-FI	0	gotye	somebody that i used to know	Somebody That I Used to Know - Gotye | Dance Cover						1	16.0	2.77258872224	dance	official	dance	official	dance	nothing	official	official	dance
+8EKjFQ-QvXE	0	gotye	somebody that i used to know	Gotye - Somebody that I used to know - AUF DEUTSCH!						1	17.0	2.83321334406	karaoke	cover	live	instrumental	karaoke	nothing	cover	cover	live
+hpPMPcBQWNo	0	gotye	somebody that i used to know	Dance Remix Gotye   Somebody That I Used To Know Ft  Kimbra   Mizeree						1	19.0	2.94443897917	dance	remix	still	official	dance	nothing	remix	remix	still
+O3V2nsIjZ8k	0	gotye	somebody that i used to know	"My Taratata - Katie Melua - Gotye/Noemie Wolfs ""Somebody that I used to know"" (2012)"	katie				2012	1	19.0	2.94443897917	live	live	live	live	live	nothing	live	live	live
+YsvrPhwpUNM	0	gotye	somebody that i used to know	Somebody That I Used to Know (opb Gotye) by On A Sensual Note						1	20.0	2.99573227355	concert	cover	live	live	live	nothing	live	cover	live
+Qt74jX2C1m0	0	gotye	somebody that i used to know	Somebody That I Used To Know - Gotye - Peter Hollens feat. Evynne - A cappella Cover	peter	a cappella				1	20.0	2.99573227355	cover	cover	other	cover	live	nothing	cover	live	other
+d-Q28i1kEkg	0	gotye	somebody that i used to know	How to play: Gotye - Somebody that I used to know Advances. Original Piano lesson. Tutorial			piano			1	21.0	3.04452243772	piano	tutorial	tutorial	cover	live	nothing	cover	tutorial	tutorial
+oO3jYSm1kRI	0	gotye	somebody that i used to know	Gotye  Somebody That I Used To Know - Acapella version						1	21.0	3.04452243772	title/artist	cover	other	official	official	nothing	cover	cover	other
+OZhDVe8CxtQ	0	gotye	somebody that i used to know	Gotye ft. Kimbra - Somebody that i used to know lyrics HQ HD						1	21.0	3.04452243772	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+mnmuZWVYgPM	0	gotye	somebody that i used to know	Gotye Somebody that I used to know						1	21.0	3.04452243772	concert	cover	live	live	live	nothing	live	live	live
+Wd1tA_OQJBg	0	gotye	somebody that i used to know	Gotye - Somebody that I used to know choreography						1	21.0	3.04452243772	choreo	remix	dance	official	dance	nothing	official	live	dance
+4XlLgVsd-DI	0	gotye	somebody that i used to know	Zoom Karaoke ~ Somebody That I Used To Know Duet Version ~ Gotye feat  Kimbra ~ With Lyrics						1	21.0	3.04452243772	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	cover	cover	karaoke
+zkrdc7O9yN8	0	gotye	somebody that i used to know	beginner bass guitar lesson Gotye somebody that i used to know			bass & bass guitar & guitar			1	22.0	3.09104245336	guitar	tutorial	tutorial	cover	live	nothing	tutorial	tutorial	tutorial
+OJWqRJO9wnQ	0	gotye	somebody that i used to know	somebody that I used to know in live concert by Gotye						1	22.0	3.09104245336	concert	live	live	live	live	nothing	live	live	live
+VFyr8OVK_KQ	0	gotye	somebody that i used to know	Somebody That I Used To Know - Gotye (Piano Cover)			piano			1	22.0	3.09104245336	piano	cover	live	cover	live	nothing	cover	cover	live
+rg94YzZnmZ0	0	gotye	somebody that i used to know	Somebody That I Used To Know by Gotye | Choreography						1	23.0	3.13549421593	choreo	official	dance	official	dance	nothing	official	official	dance
+IwPHy17Iu6E	0	gotye	somebody that i used to know	Somebody That I Used To Know - WOTE Parody! Key of Awesome #55!	key	parody				1	23.0	3.13549421593	guitar	cover	live	cover	live	nothing	cover	official	live
+qVlnfU7MJDk	0	gotye	somebody that i used to know	Somebody That I Used To Know - Gotye ft. Kimbra (Piano Cover)			piano			1	23.0	3.13549421593	piano	cover	live	cover	live	nothing	cover	cover	live
+fN_Xawhrk34	0	gotye	somebody that i used to know	'Somebody That I Used To Know' Gotye Choreography By Sam Griffin	sam griffin					1	24.0	3.17805383035	choreo	official	dance	official	dance	nothing	official	official	dance
+cV8GATPTEyc	0	gotye	somebody that i used to know	Somebody that I used to know - Gotye (piano cover + dance)			piano			1	24.0	3.17805383035	dance	cover	dance	official	dance	nothing	official	cover	dance
+muUafhU4LPk	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (Acoustic Cover By Tim Whybrow)	tim					5	25.0	3.21887582487	cover	cover	other	cover	live	nothing	cover	live	live
+2MQul-1m7q8	0	gotye	somebody that i used to know	Gotye feat. Kimbra - Somebody That I Used To Know (Bastian Van Shield Remix).mp4	van					1	25.0	3.21887582487	remix	remix	still	remix	still	nothing	remix	remix	still
+hgPZqzH7wAM	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know | Reggae Remix		reggae				1	26.0	3.25809653802	remix	remix	still	remix	still	nothing	remix	remix	still
+beBpk2Bdmww	0	gotye	somebody that i used to know	Gotye (ft.Kimbra)- Somebody that I used to know Lyrics						1	27.0	3.295836866	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+LoKUcK4zr24	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (Dumme Jungs Remix)						1	27.0	3.295836866	remix	remix	still	remix	still	nothing	remix	remix	still
+d9NF2edxy-M	0	gotye	somebody that i used to know	Somebody That I Used to Know - Walk off the Earth						1	28.0	3.33220451018	live	cover	live	live	live	nothing	official	live	dance
+cfeqt_tndwM	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know - traduzione e testo - italiano inglese						1	37.0	3.61091791264	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+gvobs99H4gY	0	gotye	somebody that i used to know	Somebody That I Used To Know (Gotye/Mphazes cover) - JENI	jeni					1	53.0	3.97029191355	cover	cover	other	cover	live	nothing	cover	cover	live
+zuIBUQP83fY	0	gotye	somebody that i used to know	Somebody that I used to know Gotye lyrics						5	92.0	4.52178857705	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+f18lb2M-yg4	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (feat. Kimbra) Guitar tutorial			guitar			5	92.0	4.52178857705	tutorial	cover	live	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+woOje1zB7Iw	0	gotye	somebody that i used to know	 Gotye  Somebody That I Used To Know (feat Kimba)  Lesson Guitar Chords Tab For Beginner			guitar			5	94.0	4.54329478227	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+GEJradEcQOA	0	gotye	somebody that i used to know	Somebody That I Used to Know - Gotye (piano)			piano			5	97.0	4.5747109785	piano	cover	live	cover	live	nothing	cover	cover	live
+_LPra4P3obs	0	gotye	somebody that i used to know	Gotye - Somebody that I used to know						5	101.0	4.61512051684	concert	live	live	live	live	nothing	official	live	live
+ErFGMBjx0y4	0	gotye	somebody that i used to know	Gotye - Somebody That I Used to Know (Bullwack Remix) HD						5	102.0	4.62497281328	concert	remix	still	live	live	nothing	remix	remix	still
+xG9dm8uWjMA	0	gotye	somebody that i used to know	Mos Wanted Crew - Somebody That I Used to Know (Abdc Battle Master Mix) - Gotye	battle					5	103.0	4.63472898823	choreo	remix	still	official	dance	nothing	remix	remix	still
+ti5xOvzqGx4	0	gotye	somebody that i used to know	Somebody That I Used To Know-Gotye (Baby Dancing)						5	104.0	4.64439089914	dance	remix	dance	official	dance	nothing	official	remix	live
+9XyULD-Pxgk	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know ft. Kimbra (KDrew Remix) Dance Cover						5	105.0	4.65396035016	dance	remix	dance	official	dance	nothing	cover	remix	dance
+quGTb1jkcD8	0	gotye	somebody that i used to know	Klangwerk 306 - Somebody that I used to know (Gotye feat. Kimbra Cover)						5	107.0	4.67282883446	concert	cover	live	live	live	nothing	cover	cover	live
+-gwKzuAb8Ww	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know - Hyper Crush Remix						5	107.0	4.67282883446	dance	remix	slides	official	dance	nothing	remix	remix	still
+8-bXCY6UBK4	0	gotye	somebody that i used to know	#Gotye - Somebody that i used to know (Lyrics)#						5	110.0	4.70048036579	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+SEYqLrBeKIE	0	gotye	somebody that i used to know	First Steps with Ableton Live.GOTYE-Somebody That I Used To Know (Bootleg)						5	113.0	4.72738781871	live	remix	still	live	live	nothing	cover	remix	still
+YwHnmGxMhqU	0	gotye	somebody that i used to know	SAMARIA - SOMEBODY THAT I USED TO KNOW (GOTYE COVER) LIVE @ CIRCLE C						5	114.0	4.73619844839	live	cover	live	live	live	nothing	live	live	live
+Ov4Rv_bYPH4	0	gotye	somebody that i used to know	gotye gautier - somebody that I used to know - gauthier  Walk off the Earth lyrics						5	116.0	4.75359019111	lyrics	remix	other	official	lyric	nothing	official	remix	live
+6Ju7btw-BGc	0	gotye	somebody that i used to know	Gotye - Somebody that I used to Know (Olivia Noelle and Corey Gray Cover) on iTunes	olivia noelle corey gray					5	119.0	4.77912349311	cover	cover	other	cover	live	nothing	cover	live	live
+dZxdyRM7auQ	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (ItaloBros remix)						5	124.0	4.82028156561	remix	remix	slides	remix	still	nothing	remix	remix	still
+_bRag9rD7a4	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know | Quentin Brodier (Drum Cover)	quentin		drum			5	126.0	4.83628190695	live	cover	live	live	live	nothing	cover	cover	live
+biZKyP15tNw	0	gotye	somebody that i used to know	Somebody That I Used To Know By Gotye Rap Song Remix	song	rap				5	141.0	4.94875989038	remix	remix	other	remix	still	nothing	remix	remix	live
+L6Z9L1VboXs	0	gotye	somebody that i used to know	Gotye - Somebody That I Used to Know - Cover						15	174.0	5.15905529921	karaoke	cover	live	instrumental	karaoke	nothing	cover	cover	live
+SHPuUrsXKqc	0	gotye	somebody that i used to know	Cuarteto Cadenza - Somebody That I Used To Know (Gotye ft. Kimbra Cover)						15	278.0	5.62762111369	dance	cover	other	official	dance	nothing	cover	cover	live
+VVd_hB0pxW0	0	gotye	somebody that i used to know	Somebody that I used to know by Gotye (cover by Tahereh)						15	287.0	5.65948221576	concert	cover	other	live	live	nothing	cover	cover	live
+tvgYbEZ6drQ	0	gotye	somebody that i used to know	Gotye / Mayday Parade - Somebody That I Used To Know (Acoustic Cover)						15	288.0	5.66296048014	karaoke	cover	live	instrumental	karaoke	nothing	cover	live	live
+xxhJVobP5n0	0	gotye	somebody that i used to know	Somebody That I Used To Know - Miguel Angel & Barbara (Gotye Cover)	miguel angel barbara					15	291.0	5.67332326717	concert	cover	live	live	live	nothing	cover	cover	live
+fakmvyY1-G0	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (Starfuckers Remix)						15	293.0	5.68017260902	remix	remix	still	remix	still	nothing	remix	remix	still
+9fO3H3Dz54U	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (JK Soul remix) - FREE GIFT		soul				15	300.0	5.70378247466	remix	remix	still	remix	still	nothing	remix	remix	still
+WhNOTB_4BGU	0	gotye	somebody that i used to know	Gotye ft Kimbra - Somebody that I used to know - Lyrics						15	303.0	5.71373280551	lyrics	official	slides	official	lyric	nothing	official	official	live
+OiyAaEbECPM	0	gotye	somebody that i used to know	Somebody That I Used To Know~Gotye~Lyrics						15	305.0	5.72031177661	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+be6SAxBfYOY	0	gotye	somebody that i used to know	Gotye feat. Kimbra - Somebody That I Used To Know (T.R.I. GAMES Remix)						15	307.0	5.72684774759	remix	remix	slides	remix	still	nothing	live	cover	live
+g_Bky7oLXL8	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (feat. Tiffany Lamson)	tiffany					15	307.0	5.72684774759	concert	live	live	live	live	nothing	cover	cover	live
+SmJRnwntV60	0	gotye	somebody that i used to know	Somebody that I Used to Know - Your Favourite Martian/Gotye Music Video Mashup [HD]						15	311.0	5.73979291218	dance	cover	other	official	dance	nothing	official	live	live
+GgO3UAmghV4	0	gotye	somebody that i used to know	Gotye - Somebody That I Used To Know (Ben Woolsey 'Djent' Cover)	ben					15	312.0	5.74300318781	cover	cover	still	cover	live	nothing	cover	cover	live
+Ri80Ea3tEEY	0	gotye	somebody that i used to know	Somebody That I Used To Know - Gotye (Cover by @JessDelgado)						15	342.0	5.83481073706	cover	cover	live	cover	live	nothing	cover	cover	live
+FpyQ6XgQ4Bk	10	flo rida	wild ones	"How To Play Flo Rida ""Wild Ones"" | Guitar Tutorial (EASY)"			guitar			0	1.0	0.0	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+kHkTtEKCqBY	10	flo rida	wild ones	"Flo Rida performs ""Wild Ones"" at Tribute to The Troops"						0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+5jWF0Yaxf2g	10	flo rida	wild ones	Wild Ones Flo Rida ft. Sia Lyrics						0	1.0	0.0	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+8T5ybvJTvDY	10	flo rida	wild ones	Flo Rida ft. Sia - Wild Ones Piano by Ray Mak	ray		piano			0	1.0	0.0	piano	cover	live	cover	live	nothing	cover	cover	live
+wjMZzEroRhM	10	flo rida	wild ones	Flo Rida feat  Sia   Wild Ones Karaoke						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+b8jOgHPeF7Q	10	flo rida	wild ones	Flo Rida Ft. Sia - Wild Ones (Miami Life Remix)				miami		0	1.0	0.0	remix	remix	still	remix	still	nothing	remix	remix	still
+v1ySZ1M8Dfc	10	flo rida	wild ones	Wild Ones - Flo Rida ft. Sia - Official Acoustic Music Video - Madilyn Bailey - on iTunes	bailey					0	1.0	0.0	cover	cover	live	cover	live	nothing	cover	cover	other
+bpOR_HuHRNs	10	flo rida	wild ones	Flo Rida - Wild Ones ft. Sia [Official Video]						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+lp1MRNVTFeM	10	flo rida	wild ones	World Dance Day  | Dance Studio KingStep | Flo Rida - Wild Ones ft. Sia	day	world				0	1.0	0.0	dance	official	dance	official	dance	nothing	official	official	dance
+WiBf3IN24p0	10	flo rida	wild ones	Flo Rida ft. Sia - Wild Ones - Piano Tutorial (Easy Version)			piano			0	2.0	0.69314718056	piano	cover	other	cover	live	nothing	cover	cover	tutorial
+nOeBGlyz-Ok	10	flo rida	wild ones	Flo Rida feat. Sia - Wild Ones [Lyrics]						0	2.0	0.69314718056	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+f6TOOPRHsmM	10	flo rida	wild ones	Flo Rida - Wild Ones ft. Sia karaoke						0	2.0	0.69314718056	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+9cruQ42rCZs	10	flo rida	wild ones	[HD] Flo Rida - Wild Ones - Today Show Concert					2015/10/16	0	2.0	0.69314718056	concert	live	live	live	live	nothing	live	live	live
+bCB0fe6pSZg	10	flo rida	wild ones	Wild Ones -  Flo Rida ft. Sia [Just Dance Fanmade Mashup]						0	2.0	0.69314718056	dance	official	dance	official	dance	nothing	official	official	dance
+6V3uc_UnbBY	10	flo rida	wild ones	Flo Rida feat. Stayc Reigns - Wild Ones / Whistle (Teen Choice Awards 2012) HD			whistle		2012	0	2.0	0.69314718056	live	live	live	live	live	nothing	live	live	live
+hrHNbP0S2m4	10	flo rida	wild ones	Flo Rida - Wild Ones  ft. Sia  ( piano cover )			piano			1	8.0	2.07944154168	piano	cover	live	cover	live	nothing	cover	cover	live
+nW1M5Rw0O9g	10	flo rida	wild ones	Flo Rida Sia - Wild Ones Remix [Reidiculous]						1	12.0	2.48490664979	remix	remix	still	remix	still	nothing	remix	remix	still
+Gf9xg0mSXT0	10	flo rida	wild ones	Flo-Rida Feat. Sia - Wild Ones (David Guetta &  Nicky Romero Remix)	david nicky romero					1	14.0	2.63905732962	remix	remix	still	remix	still	nothing	remix	remix	still
+4DUBzpTZEWQ	10	flo rida	wild ones	Flo Rida Ft Sia - Wild Ones LYRICS HQ						1	14.0	2.63905732962	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+QvQiaFIpKAI	10	flo rida	wild ones	Flo Rida ft. Sia - Wild Ones Magyar Magyarul Hungarian Lyrics				hungarian		1	18.0	2.8903717579	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+jeFRnIy0hp4	10	flo rida	wild ones	"Flo Rida - New Album ""Wild Ones"" Digi Mash-Up (Official Audio)"						1	19.0	2.94443897917	title/artist	remix	other	official	official	nothing	cover	cover	still
+9e07OKgTGmM	10	flo rida	wild ones	Guitar Cover: Wild Ones - Flo Rida feat Sia			guitar			1	19.0	2.94443897917	guitar	cover	live	cover	live	nothing	cover	cover	live
+g76aol9IvXY	10	flo rida	wild ones	[Flo Rida - Wild Ones ft. Sia] [156] Dj.kant Remix						1	19.0	2.94443897917	remix	remix	still	remix	still	nothing	remix	remix	still
+B0zH5EWiKNY	10	flo rida	wild ones	Dance Central 3 Flo Rida Wild Ones Easy Gameplay Walkthrough Xbox 360						1	20.0	2.99573227355	dance	official	dance	official	dance	nothing	official	official	dance
+Qnr7LHNLDU8	10	flo rida	wild ones	Flo Rida- Wild Ones SIA ONLY Edit						1	21.0	3.04452243772	karaoke	official	still	instrumental	karaoke	nothing	remix	remix	still
+6F044lCfrk8	10	flo rida	wild ones	Wild Ones - Flo Rida Piano Tribute			piano			1	21.0	3.04452243772	piano	cover	slides	cover	live	nothing	cover	cover	live
+lmollKmfI7c	10	flo rida	wild ones	Wild Ones Flo Rida - Dance routine						1	21.0	3.04452243772	dance	official	dance	official	dance	nothing	official	official	dance
+Ge0Xx_5vdNI	10	flo rida	wild ones	Flo Rida feat. Sia - Wild Ones (America's Best Dance Crew Season 7 Performance)	best season			america		1	22.0	3.09104245336	dance	live	dance	official	dance	nothing	official	official	dance
+-LJrycuRoSk	10	flo rida	wild ones	Flo Rida Ft Sia - Wild Ones (MTWO Dubstep Remix)		dubstep				1	22.0	3.09104245336	title/artist	remix	still	official	official	nothing	remix	remix	still
+pv8kPoQc4Xw	10	flo rida	wild ones	Flo Rida | Wild Ones (feat.Sia) Guitar Cover | In 1080p HD			guitar			1	22.0	3.09104245336	guitar	cover	live	cover	live	nothing	cover	cover	live
+9hZ0xGLnL1c	10	flo rida	wild ones	Flo Rida feat. Sia - Wild Ones (Piano Version/Cover)			piano			1	22.0	3.09104245336	piano	cover	live	cover	live	nothing	cover	cover	live
+_-1hfpz4tKA	10	flo rida	wild ones	Flo Rida - Wild Ones ft. Sia (Drum Bass Guitar Cover)		drum & bass	bass & bass guitar & drum & guitar			1	23.0	3.13549421593	guitar	cover	live	cover	live	nothing	cover	cover	live
+5J98Y8tq_3s	10	flo rida	wild ones	Wild Ones   Flo rida feat Sia Lyrics + traduction   YouTube						1	30.0	3.40119738166	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+bx-ZBqUAPa8	10	flo rida	wild ones	Flo Rida - Wild Ones ft. Sia chipmunk by DjAdy						5	50.0	3.91202300543	karaoke	remix	still	instrumental	karaoke	nothing	cover	cover	live
+EXXqsXtr1k0	10	flo rida	wild ones	Flo Rida Ft. Sia - Wild Ones x Skrillex Badman (NoiseBoy Remix)						5	72.0	4.27666611902	remix	remix	still	remix	still	nothing	remix	remix	still
+1pu5fZ2Arao	10	flo rida	wild ones	Alan Salvatore (feat. Abraham  Richy  Mario  Fredie) / Flo Rida - Wild Ones	alan salvatore abraham mario					0	79.0	4.36944785247	choreo	official	dance	official	dance	nothing	cover	official	other
+LpGqnuafG_k	10	flo rida	wild ones	Flo Rida - Wild Ones (ft. Sia) & Bruno Mars - Nothin On You Cover Mashup	bruno					5	93.0	4.53259949315	live	cover	live	live	live	nothing	cover	cover	still
+sn-xEcacCZg	10	flo rida	wild ones	Flo Rida- Wild Ones Remix						5	93.0	4.53259949315	remix	remix	still	remix	still	nothing	remix	remix	still
+ynEQI86Ls14	10	flo rida	wild ones	Are You Ready /Devotion /Nothing Inside /Wild Ones /DJ Ease My Apollo Road HD						5	96.0	4.56434819147	piano	remix	still	cover	live	nothing	remix	remix	still
+zgUl44Upqvg	10	flo rida	wild ones	Flo Rida Wild Ones South Beach	beach					5	100.0	4.60517018599	live	live	live	live	live	nothing	live	live	live
+Vs7lkyYfkEo	10	flo rida	wild ones	Flo Rida - Wild Ones ft. Sia [Music Video FilmsLAH]						5	101.0	4.61512051684	live	official	other	live	live	nothing	cover	official	other
+tBXtcjOca9U	10	flo rida	wild ones	Flo Rida feat. Sia - Wild Ones lyrics						5	101.0	4.61512051684	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+kOEW_PAKMEQ	10	flo rida	wild ones	Flo Rida Ft. Sia - Wild Ones (Lyrics On Screen) HQ						5	103.0	4.63472898823	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+Ih8KFUB9uKA	10	flo rida	wild ones	Flo Rida Ft. Sia Wild Ones(YSR Remix)						5	107.0	4.67282883446	remix	remix	still	remix	still	nothing	remix	remix	still
+4tlrZ1PBZY8	10	flo rida	wild ones	wild ones.MOV						5	107.0	4.67282883446	choreo	official	dance	official	dance	nothing	cover	official	live
+ePi_uu5U-fQ	10	flo rida	wild ones	Dubstep Remixes Of Popular Songs - Wild Ones - Flo Rida ft. Sia.		dubstep				15	292.0	5.67675380227	remix	remix	still	remix	still	nothing	remix	remix	still
+5pImtj6bfao	10	flo rida	wild ones	WILD ONES FLO RIDA FT. SIA [OUT NOW!] HYDROGEN REMIX (EDM) Video by FM Loud						15	306.0	5.72358510195	remix	remix	still	remix	still	nothing	cover	cover	still
+11xukEdEaes	10	flo rida	wild ones	Super Push c/ Flo Rida - Wild Ones @ Expominas  Belo Horizonte				belo horizonte		15	308.0	5.73009978297	live	live	live	live	live	nothing	live	live	live
+ptZuB8H94Bo	10	flo rida	wild ones	Flo Rida feat. Sia Wild Ones Acoustic Cover by Theresa Cuevas	theresa					15	323.0	5.77765232322	cover	cover	live	cover	live	nothing	cover	cover	live
+KZEFcoBLzcc	10	flo rida	wild ones	Flo Rida feat. SIA - Wild ones ( Traducao PT-BR )						15	336.0	5.81711115996	dance	official	lyric	official	dance	nothing	official	remix	lyric
+l5znIXAziiU	10	flo rida	wild ones	Flo rida ft. Rihanna - Wild Ones						15	354.0	5.86929691313	title/artist	official	still	official	official	nothing	remix	official	still
+cx7iX4Fiom0	10	flo rida	wild ones	[Flo Rida Ft  Sia   Wild Ones[156] DJ PAREZAA CLUB REMIX						15	364.0	5.89715386764	remix	remix	dance	remix	still	nothing	remix	remix	live
+d7RrJTLxGFk	20	rihanna	where have you been	Rihanna - Where Have You Been LIVE at iHeartRadio Festival 2012 HD Where have you been directo					2012	0	1.0	0.0	concert	live	live	live	live	nothing	live	live	live
+SJc8lLP8geg	20	rihanna	where have you been	Rihanna - Where have you been lyrics						0	1.0	0.0	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+2FCVLhG3-f4	20	rihanna	where have you been	Where Have You Been by Rihanna  cover by CIMORELLI! 200 million views!!!						0	1.0	0.0	cover	cover	other	cover	live	nothing	cover	official	other
+qkKLPrREs80	20	rihanna	where have you been	Rihanna Where Have You Been KARAOKE						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+HBxt_v0WF6Y	20	rihanna	where have you been	Rihanna - Where Have You Been						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+Zgh64jegvck	20	rihanna	where have you been	Rihanna - Where Have You Been						0	1.0	0.0	choreo	official	dance	official	dance	nothing	official	official	dance
+az_VytMwpfA	20	rihanna	where have you been	Rihanna - Where Have You Been (Alessio Silvestro Remix)						0	1.0	0.0	remix	remix	slides	remix	still	nothing	remix	remix	still
+1DiiXKEpQK4	20	rihanna	where have you been	Rihanna - Where Have You Been (Rock Guitar Cover)		rock	guitar			0	1.0	0.0	guitar	cover	live	cover	live	nothing	cover	cover	live
+U0gkbBFeHGY	20	rihanna	where have you been	Where Have You Been - Rihanna - Just Dance 2014 (Wii U)					2014	0	1.0	0.0	dance	official	dance	official	dance	nothing	official	official	dance
+HGyembLgmw8	20	rihanna	where have you been	"Rihanna""Where have you been"" Part I (MIRRORED) Dance Breakdown Tutorial #2"						0	1.0	0.0	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+JYQqDIEockU	20	rihanna	where have you been	Rihanna - Where Have You Been (Live American Idol)				american		0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+cY1vJCws9MI	20	rihanna	where have you been	Rihanna - Where Have You Been - Piano Tutorial (100%) Synthesia			piano			0	1.0	0.0	piano	cover	tutorial	cover	live	nothing	cover	cover	tutorial
+ygXgKadXxAs	20	rihanna	where have you been	Rihanna 'Where Have You Been' Dance Tutorial PART 1						0	2.0	0.69314718056	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+hrLyf8rnYPM	20	rihanna	where have you been	Where Have You Been By Rihanna Guitar Cover (with TAB)			guitar			0	2.0	0.69314718056	guitar	cover	live	cover	live	nothing	cover	cover	live
+Cq2p1fWyVoI	20	rihanna	where have you been	Where Have you Been? - Karaoke HD (In the style of Rihanna)						0	2.0	0.69314718056	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+zNdT7eS5oV8	20	rihanna	where have you been	Rihanna - Where have you been (Pawbeats piano cover)			piano			0	2.0	0.69314718056	piano	cover	other	cover	live	nothing	cover	cover	live
+rXkIS46E7WY	20	rihanna	where have you been	Where have you been - Rihanna (subtitulos en espanol)						0	2.0	0.69314718056	concert	live	live	live	live	nothing	live	live	live
+CZFKeZe5IBQ	20	rihanna	where have you been	Rihanna - Where Have You Been live at Hackney Music Festival						0	2.0	0.69314718056	live	live	live	live	live	nothing	live	live	live
+dilYPHFjWBg	20	rihanna	where have you been	"Singing ""Where Have You Been"" by Rihanna - MICHELLE MARTINEZ (COVER)"	michelle martinez					0	2.0	0.69314718056	cover	cover	live	cover	live	nothing	cover	cover	live
+GxtGr6ytO90	20	rihanna	where have you been	Where Have You Been - @Rihanna - #NIKAMILLO Choreography | Camillo Lauricella & Nika Kljun						0	11.0	2.3978952728	choreo	official	dance	official	dance	nothing	official	official	dance
+oO9cOUO-c-8	20	rihanna	where have you been	Rihanna - Where Have You Been (Sven's Acoustic Version)						1	17.0	2.83321334406	title/artist	remix	slides	official	official	nothing	cover	cover	still
+-cuI1ma_BjY	20	rihanna	where have you been	Rihanna - Where Have You Been Karaoke / Instrumental with backing vocals and lyrics						1	17.0	2.83321334406	karaoke	instrumental	still	instrumental	karaoke	nothing	instrumental	instrumental	still
+tCiVF-YYmnk	20	rihanna	where have you been	Where Have You Been - Rihanna (Official Choreography)						1	18.0	2.8903717579	choreo	official	dance	official	dance	nothing	official	official	dance
+GZNJOpDM6lc	20	rihanna	where have you been	[Vietsub + Engsub] Rihanna - Where Have You Been						1	18.0	2.8903717579	karaoke	official	official	instrumental	karaoke	nothing	cover	official	lyric
+A28zAQgFLy0	20	rihanna	where have you been	Where have you been - Rihanna live in Manila 2013 (HD quality)				manila	2013	1	18.0	2.8903717579	concert	live	live	live	live	nothing	live	live	live
+-1Rssgr0ic0	20	rihanna	where have you been	"Rihanna - Where Have You Been (Luciana Abreu) ""A Tua Cara Nao Me E Estranha"" Portugal"	luciana cara			portugal		1	19.0	2.94443897917	live	live	live	live	live	nothing	live	live	live
+qxzqFoCBg8c	20	rihanna	where have you been	Rihanna - Where Have You Been // choreography by Matt Pardus	matt					1	20.0	2.99573227355	choreo	official	dance	official	dance	nothing	official	official	dance
+XQZ8TsnLqcc	20	rihanna	where have you been	Rihanna - Where Have You Been (Crazy Dance Moves  2012) HQ  HD					2012	1	20.0	2.99573227355	lyrics	official	dance	official	lyric	nothing	official	official	other
+-qCN63-Ud-I	20	rihanna	where have you been	Rihanna Where Have You Been Piano Tutorial			piano			1	20.0	2.99573227355	piano	cover	tutorial	cover	live	nothing	cover	cover	tutorial
+f0PA0VgLBk8	20	rihanna	where have you been	Rihanna- Where Have You Been guitar cover			guitar			1	20.0	2.99573227355	guitar	cover	live	cover	live	nothing	cover	cover	live
+q8W0ToBksKk	20	rihanna	where have you been	Rihanna - where have you been - Epic guitar bootleg			guitar			1	21.0	3.04452243772	guitar	remix	other	cover	live	nothing	cover	cover	live
+1BZnZrJ_LG4	20	rihanna	where have you been	Rihanna - WHERE HAVE YOU BEEN + LYRICS						1	21.0	3.04452243772	concert	official	lyric	live	live	nothing	official	official	lyric
+vgNAceS9gUo	20	rihanna	where have you been	Just Dance 2014 Where Have You Been  Rihanna (One stage) 5*					2014	1	21.0	3.04452243772	dance	official	dance	official	dance	nothing	cover	official	live
+tJFLsLbnzaQ	20	rihanna	where have you been	Rihanna- Where Have You Been (Mercer Remix) Piano Cover- Raashi Kulkarni	mercer		piano			1	22.0	3.09104245336	piano	cover	live	cover	live	nothing	cover	cover	live
+JGDLm-ImeqI	20	rihanna	where have you been	Rihanna - Where Have You Been (Yashar Gasanov dubstep remix)		dubstep				1	22.0	3.09104245336	remix	remix	other	remix	still	nothing	remix	remix	other
+yjHdOqdv_Uw	20	rihanna	where have you been	"Yo Soy: Rihanna estuvo espectacular con ""Where Have You Been"""						1	23.0	3.13549421593	title/artist	live	live	official	official	nothing	official	remix	live
+o3Zuqm-ZaVk	20	rihanna	where have you been	Rihanna - Where have you been karaoke with vocals						1	23.0	3.13549421593	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	still
+VjHnI83zsAE	20	rihanna	where have you been	Rihanna - Where Have You Been / MOORHOUSE cover						1	23.0	3.13549421593	cover	cover	other	cover	live	nothing	cover	cover	live
+WH501SVielc	20	rihanna	where have you been	Where have you been - Rihanna cover by Febrian						1	23.0	3.13549421593	guitar	cover	live	cover	live	nothing	cover	cover	live
+vZ7rP7UKuIs	20	rihanna	where have you been	"Rihanna - Where Have You Been (We Found Love Remix) feat. Calvin Harris ""Mashup"""	love calvin harris					1	24.0	3.17805383035	remix	remix	still	remix	still	nothing	remix	remix	still
+_jxkkNh3iAg	20	rihanna	where have you been	Rihanna - Where Have You Been Piano Cover			piano			1	24.0	3.17805383035	piano	cover	live	cover	live	nothing	cover	cover	live
+_pZcmJh2--I	20	rihanna	where have you been	Rihanna -Where have you been - Hardwell (Dj Shomron D Remix) - 2013 - HD					2013	1	25.0	3.21887582487	remix	remix	other	remix	still	nothing	remix	remix	other
+itXHMI6iiNc	20	rihanna	where have you been	Tal - Where Have You Been (Rihanna Cover) | NRJ In The Park 2012	park				2012	1	26.0	3.25809653802	concert	live	live	live	live	nothing	live	live	live
+nW_1fjSDop8	20	rihanna	where have you been	Rihanna - Where Have You Been k0szzz dance tutorial						1	26.0	3.25809653802	tutorial	official	dance	tutorial	tutorial	nothing	tutorial	cover	tutorial
+d4ViDK1R-Ik	20	rihanna	where have you been	Rihanna - Where Have You Been - Inspired Makeup Tutorial | DivaDarlingChic						1	31.0	3.43398720449	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	cover	tutorial
+dkQQCzi_1DM	20	rihanna	where have you been	Rihanna - Where Have You Been (Instrumental & Lyrics in HD)						1	43.0	3.76120011569	lyrics	instrumental	lyric	official	lyric	nothing	official	official	lyric
+lvGYNyCEdRY	20	rihanna	where have you been	WHERE HAVE YOU BEEN by Rihanna | Just Dance 2014					2014	5	82.0	4.40671924726	dance	official	dance	official	dance	nothing	official	official	dance
+l5Y0aCUyRVg	20	rihanna	where have you been	Rihanna - Where Have You Been (Edson Pride Reconstruction Mix)						5	85.0	4.44265125649	remix	remix	still	remix	still	nothing	remix	remix	still
+nLSAF1tXRwY	20	rihanna	where have you been	Rihanna - Where Have You Been (Remix Reggae)		reggae				5	88.0	4.47733681448	remix	remix	still	remix	still	nothing	remix	remix	still
+hneKtvI3aEM	20	rihanna	where have you been	Rihanna - Where Have You Been (Hardwell Remix)						5	94.0	4.54329478227	remix	remix	still	remix	still	nothing	remix	remix	still
+Ml1rGvIm-m0	20	rihanna	where have you been	Rihanna | Where have You Been Choreography |  #WherehaveYouBeen #UrbanDance						5	100.0	4.60517018599	choreo	official	dance	official	dance	nothing	official	official	dance
+xcOby7fG5JE	20	rihanna	where have you been	Rihanna - Where Have You Been Choreography and Concept Video Ft Dancing Plus						5	101.0	4.61512051684	choreo	official	dance	official	dance	nothing	official	official	dance
+IFWM-ink-m0	20	rihanna	where have you been	Where have you been - Rihanna (Lyrics)						5	102.0	4.62497281328	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+4oGZBYxSQwQ	20	rihanna	where have you been	Coreografa de Where Have You Been de Rihanna Vista de Frente						5	102.0	4.62497281328	guitar	official	dance	cover	live	nothing	official	official	live
+l7XucpsMDvk	20	rihanna	where have you been	Rihanna - Where Have You Been (Diamonds Tour Vienna Live)				vienna		5	104.0	4.64439089914	live	live	live	live	live	nothing	live	live	live
+X_RsALblYhg	20	rihanna	where have you been	Rihanna - Where Have You Been (All My Life) / Lyrics in Description						5	105.0	4.65396035016	lyrics	official	still	official	lyric	nothing	official	official	lyric
+GI5SydpFnI0	20	rihanna	where have you been	Sunrise Band Banja Luka - Rihanna - Where Have You Been Live @ DFK						5	106.0	4.66343909411	live	live	live	live	live	nothing	cover	cover	live
+Vx2s8FL01uc	20	rihanna	where have you been	Rihanna - Where Have You Been  choreography by Liza Egorova (STEP2DANCE)	liza					5	109.0	4.69134788223	choreo	official	dance	official	dance	nothing	official	official	dance
+SRZxvCKnMCs	20	rihanna	where have you been	Jazz - Funk performance to Rihanna - Where Have You Been (choreography Maria Kolotun) FREEWAY DC	maria	jazz/funk				5	159.0	5.06890420222	tutorial	official	dance	tutorial	tutorial	nothing	cover	cover	live
+A9HWIemcXO4	20	rihanna	where have you been	Where Have You Been - Rihanna and Cimorelli						15	288.0	5.66296048014	lyrics	official	other	official	lyric	nothing	cover	cover	other
+92F7t30rRtM	20	rihanna	where have you been	Rihanna vs Michael Calfan - Where have you been resurrected (Donovitz Bootleg)	michael					15	298.0	5.69709348651	piano	remix	still	cover	live	nothing	remix	remix	still
+69cjH3ms-XQ	20	rihanna	where have you been	Dj Decibel feat. Rihanna - Where Have you Been (Decibel Club Edit)						15	305.0	5.72031177661	piano	remix	still	cover	live	nothing	remix	remix	still
+NtQ4LzA2j7s	20	rihanna	where have you been	Rihanna - Where Have You Been( DWT-Zurich 30 06 2013)					2013	15	307.0	5.72684774759	concert	live	live	live	live	nothing	live	live	live
+ShSOO-_2cjU	20	rihanna	where have you been	Rihanna- Where Have You Been flute cover			flute			15	311.0	5.73979291218	piano	cover	live	cover	live	nothing	cover	cover	live
+Tdk2_0vN5rg	20	rihanna	where have you been	Rihanna - Diamonds World Tour in Barcelona - Where Have You Been II		world		barcelona		15	315.0	5.75257263883	concert	live	live	live	live	nothing	cover	live	live
+eqB3oknYBXo	20	rihanna	where have you been	Rihanna - Where have you been (Jarvis dubstep remix) Free download from facebook	jarvis	dubstep				15	334.0	5.81114099298	remix	remix	still	remix	still	nothing	remix	remix	still
+IduCxfQjKY8	20	rihanna	where have you been	"Me Singing ""Where Have You Been"" by Rihanna"						15	361.0	5.88887795833	guitar	cover	live	cover	live	nothing	cover	cover	live
+cQWaVD3W-jQ	20	rihanna	where have you been	Rihanna - Where Have You Been (Excellion Dubstep Remix)		dubstep				15	364.0	5.89715386764	remix	remix	still	remix	still	nothing	remix	remix	still
+WzXshT5BF6g	30	katy perry	part of me	Katy Perry - Part of Me ( Live at The Prismatic World Tour)		world				0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+o94S5Qw17YE	30	katy perry	part of me	Katy Perry - Part Of Me (Lyrics On Screen)						0	1.0	0.0	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+F3BqVie9UzA	30	katy perry	part of me	Just Dance 4 (DLC)- Katy Perry-Part Of Me(Full Gameplay Wii)						0	1.0	0.0	dance	official	dance	official	dance	nothing	official	official	dance
+xGjg8OH6gaU	30	katy perry	part of me	Katy Perry - Part Of Me (Piano Cover) by LittleTranscriber			piano			0	1.0	0.0	tutorial	cover	tutorial	tutorial	tutorial	nothing	cover	cover	tutorial
+uuwfgXD8qV8	30	katy perry	part of me	Katy Perry - Part Of Me						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+da1K-sP_Nys	30	katy perry	part of me	Katy Perry - Part Of Me (Karaoke Version)						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+xZ0lcWGq68I	30	katy perry	part of me	"CHRIS BRYAN | KATY PERRY ""PART OF ME"" | DANCE CHOREOGRAPHY CHOREOGRAPHY BY CHRIS BRYAN RONE"	chris bryan chris bryan					0	1.0	0.0	choreo	official	dance	official	dance	nothing	official	official	dance
+aPS4ZnfBlZw	30	katy perry	part of me	Katy Perry - Part Of Me (Antics House Remix)		house				0	1.0	0.0	remix	remix	still	remix	still	nothing	remix	remix	still
+5n4GKkzxQYM	30	katy perry	part of me	"How to Play ""Part Of Me"" by Katy Perry - Piano Tutorial & Sheet Music"			piano			0	1.0	0.0	tutorial	cover	tutorial	tutorial	tutorial	nothing	cover	cover	tutorial
+Q9g2qUjfsWo	30	katy perry	part of me	Just Dance 4 - Part Of Me - 5* Stars						0	2.0	0.69314718056	choreo	official	dance	official	dance	nothing	official	official	dance
+2Fko7_SV3Lc	30	katy perry	part of me	Katy Perry - Part Of Me (Lyric Video)						0	2.0	0.69314718056	title/artist	official	lyric	official	official	nothing	official	official	lyric
+rjkk5p1NVho	30	katy perry	part of me	Part of me - Karaoke HD (In the style of Katy Perry)						0	2.0	0.69314718056	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+87s7mnRx3rg	30	katy perry	part of me	"Katy Perry - Part Of Me Live At ""KCA 2012"""					2012	0	2.0	0.69314718056	live	live	live	live	live	nothing	live	live	live
+zkawXjXrhy0	30	katy perry	part of me	Katy Perry - Part Of Me Piano by Ray Mak	ray		piano			0	2.0	0.69314718056	piano	cover	live	cover	live	nothing	cover	cover	live
+CUm6PjcPI-E	30	katy perry	part of me	Katy Perry - Part Of Me (RAC Remix)						0	4.0	1.38629436112	remix	remix	still	remix	still	nothing	remix	remix	still
+Ymm1tLQ2nik	30	katy perry	part of me	Katy Perry - Part Of Me (Metal Cover/Remix by Jake Farhang)	jake	metal				1	15.0	2.7080502011	remix	cover	still	remix	still	nothing	remix	cover	live
+PXW5vUQDgJU	30	katy perry	part of me	Stronger - Part of Me - Kelly Clarkson and Katy Perry Live by Dez Duron	kelly					1	17.0	2.83321334406	live	cover	live	live	live	nothing	cover	cover	live
+q6fO0gcGkCg	30	katy perry	part of me	Katy Perry -Part Of Me- My Karaoke voice						1	18.0	2.8903717579	karaoke	cover	lyric	instrumental	karaoke	nothing	instrumental	remix	still
+Y58YAG5Wo24	30	katy perry	part of me	Katy Perry Inspired Makeup Tutorial: Part of Me						1	19.0	2.94443897917	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	cover	tutorial	other
+QhMhV_fRNy0	30	katy perry	part of me	"Katy Perry: ""Part of Me"" The Prismatic World Tour - Chicago"		world		chicago		1	19.0	2.94443897917	concert	live	live	live	live	nothing	live	live	live
+m8wKn2uGN9Q	30	katy perry	part of me	PART OF ME - Katy Perry (pop piano lesson / tutorial) 		pop	piano			1	20.0	2.99573227355	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	cover	cover	tutorial
+vXGnL7AwP7I	30	katy perry	part of me	Katy Perry - Part Of Me (Cover by Eli Lieb) Official Music Video - Available on iTunes!	eli					1	21.0	3.04452243772	cover	cover	other	cover	live	nothing	cover	cover	other
+Gvt7WEDBUv0	30	katy perry	part of me	Just Dance - Katy Perry (Part Of Me) (FANMADE MASHUP)						1	21.0	3.04452243772	dance	official	dance	official	dance	nothing	official	official	dance
+OBHVI_Z6ZU4	30	katy perry	part of me	Katy Perry - Part Of Me      Faster Version with Lyrics Speed Up						1	21.0	3.04452243772	lyrics	official	lyric	official	lyric	nothing	official	remix	other
+JrrxZ-gKBSI	30	katy perry	part of me	Part of Me Instrumental Karaoke - Katy Perry						1	22.0	3.09104245336	karaoke	instrumental	lyric	instrumental	karaoke	nothing	instrumental	cover	still
+9znAKHsVNbo	30	katy perry	part of me	Katy Perry - Part of Me lyrics						1	22.0	3.09104245336	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+a6RTMSWu6lY	30	katy perry	part of me	Katy Perry - Part of Me (AndE Dance Remix)						1	22.0	3.09104245336	dance	remix	still	official	dance	nothing	remix	remix	still
+nzja1YXHXew	30	katy perry	part of me	Katy Perry - Part of Me (Capital FM Summertime Ball 2012 Live Performance)	ball				2012	1	22.0	3.09104245336	live	live	live	live	live	nothing	live	live	live
+vkQugc5sEzs	30	katy perry	part of me	Katy Perry Part Of Me: Inspiered Makeup Tutorial FAWNinc Look & Live Like celebrity						1	23.0	3.13549421593	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	cover	official	tutorial
+CFS4DUw7pAo	30	katy perry	part of me	PART OF ME. Line Dance (Demo & Teach in french)				french		1	23.0	3.13549421593	dance	official	dance	official	dance	nothing	official	cover	dance
+_ISfO6_fKJ0	30	katy perry	part of me	Part Of Me by Katy Perry acoustic guitar instrumental cover with lyrics			acoustic guitar & guitar			1	27.0	3.295836866	guitar	cover	lyric	cover	live	nothing	cover	cover	lyric
+FoS19UpDbJQ	30	katy perry	part of me	Katy Perry - Part Of Me Live in Amsterdam  Ziggo Dome 09.03.2015 -  The Prismatic World Tour		world		amsterdam	2015	1	28.0	3.33220451018	live	live	live	live	live	nothing	live	live	live
+7jyVuxmC0eY	30	katy perry	part of me	Katy Perry - Part of me {lyrics}						1	28.0	3.33220451018	lyrics	official	lyric	official	lyric	nothing	official	remix	lyric
+PHHvM4ZwfK4	30	katy perry	part of me	Echosmith - Part Of Me [Official Cover Video]						1	36.0	3.58351893846	cover	cover	live	cover	live	nothing	official	cover	other
+zC2ReqNRTdw	30	katy perry	part of me	Katy Perry- Part Of Me dance						5	94.0	4.54329478227	dance	official	dance	official	dance	nothing	official	remix	dance
+FTbgxVfZfIE	30	katy perry	part of me	Feint - My Sunset / Katy Perry - Part Of Me (remix/mashup) dj kasper (dnb)						5	95.0	4.5538768916	remix	remix	slides	remix	still	nothing	remix	remix	still
+QhSdLAi9rhg	30	katy perry	part of me	Katy Perry - Part of Me (Craig-M Bounce Remix)	craig	bounce				5	96.0	4.56434819147	remix	remix	slides	remix	still	nothing	remix	remix	still
+gW58fsK-Cpw	30	katy perry	part of me	Katy Perry - Part Of Me 24.05.14 Manchester Prismatic Tour Live				manchester		5	97.0	4.5747109785	live	live	live	live	live	nothing	live	live	live
+CeEeYeE7zeE	30	katy perry	part of me	Katy Perry - Part Of Me (DJ Double Cee Electro Dance Remix)		electro				5	97.0	4.5747109785	dance	remix	slides	official	dance	nothing	remix	remix	still
+nvAUhlMJOx8	30	katy perry	part of me	Part of me dancing						5	98.0	4.58496747867	choreo	official	dance	official	dance	nothing	live	cover	live
+oE_982RvMJQ	30	katy perry	part of me	Katy Perry - Part Of Me (Lyrics)						5	99.0	4.59511985013	lyrics	official	lyric	official	lyric	nothing	official	remix	lyric
+CCnvHfhxuOY	30	katy perry	part of me	Part Of Me - Katy Perry (Live Cover)						5	101.0	4.61512051684	live	cover	live	live	live	nothing	cover	cover	live
+qogwMW9PQ3Y	30	katy perry	part of me	"Katy Perry ""Part Of Me"" Live Singapore"				singapore		5	102.0	4.62497281328	live	live	live	live	live	nothing	live	live	live
+BLYyNc9llWk	30	katy perry	part of me	Part of Me - Katy Perry [With original lyrics/Con letra original]						5	102.0	4.62497281328	lyrics	official	lyric	official	lyric	nothing	cover	official	lyric
+b_ZCYqUynaI	30	katy perry	part of me	Katy Perry - Part of Me Lyrics HD						5	108.0	4.68213122712	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+pzWG-yFdx-s	30	katy perry	part of me	"Katy Perry - California Gurls (Part Of Me Remix) Ft. Snoop Dogg - Mashup By ""EnriqueIglesiasOK"""				california		5	110.0	4.70048036579	remix	remix	slides	remix	still	nothing	remix	remix	still
+KOkIXzNUGoQ	30	katy perry	part of me	Gotye - Somebody That I Used To Know + Katy Perry - Part Of Me Mashup (covers) by Lisa Scinta	lisa					5	241.0	5.48479693349	cover	cover	live	cover	live	nothing	remix	cover	still
+2bwx896DIys	30	katy perry	part of me	"Elektrolytes and Poreotix MASTER MIX ""Part of Me"" by Katy Perry Week 10 ABDC 7"						15	280.0	5.63478960317	live	remix	still	live	live	nothing	remix	remix	still
+hQY10zTmG0g	30	katy perry	part of me	Last Part of Me - Katy Perry vs My Chemical Romance (Mashup)						15	302.0	5.71042701737	guitar	remix	still	cover	live	nothing	remix	remix	still
+w_NFkb5umSA	30	katy perry	part of me	Katy Perry vs. Britney Spears - Part Of Me / Till The World Ends (Stelmix 4' Mashup)	britney spears	world				15	306.0	5.72358510195	title/artist	remix	still	official	official	nothing	remix	remix	still
+ghHQAm8vbLk	30	katy perry	part of me	Cat covering Part Of Me by Katy Perry						15	329.0	5.79605775077	cover	cover	live	cover	live	nothing	remix	cover	live
+vezSM0djiBc	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Piano Cover) by LittleTranscriber			piano			0	1.0	0.0	piano	cover	tutorial	cover	live	nothing	cover	cover	tutorial
+oIdb_iI7iRg	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Live on The X Factor)						0	1.0	0.0	concert	live	live	live	live	nothing	live	live	live
+QEGAQi6cDLM	40	katy perry	the one that got away	THE ONE THAT GOT AWAY (KATY PERRY) Choreography l PEAR						0	1.0	0.0	choreo	official	dance	official	dance	nothing	official	official	dance
+fDTouU0iABA	40	katy perry	the one that got away	Katy Perry - The One That Got Away Lyrics						0	1.0	0.0	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+gxnhNEXit6w	40	katy perry	the one that got away	"How To Play ""The One That Got Away"" Piano Tutorial (Katy Perry)"			piano			0	1.0	0.0	tutorial	cover	live	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+b50S6JZXX24	40	katy perry	the one that got away	Just Dance - Katy Perry (The One That Got Away) (FANMADE MASHUP)						0	1.0	0.0	dance	official	dance	official	dance	nothing	official	official	dance
+_yiCpBkAooM	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Karaoke Version)						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+GmcVddL3Lxc	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Plastic Plates remix)						0	1.0	0.0	remix	remix	still	remix	still	nothing	remix	remix	still
+Ahha3Cqe_fk	40	katy perry	the one that got away	Katy Perry - The One That Got Away						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+9Ik96sqSQys	40	katy perry	the one that got away	Katy Perry - The One That Got Away/Thinking of You (Live at The Prismatic World Tour)		world				0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+mJTjL5donI0	40	katy perry	the one that got away	Katy Perry - The one that got away / Thinking of you (Prismatic World Tour O2 London ) HD		world		london		0	2.0	0.69314718056	concert	live	live	live	live	nothing	live	live	live
+NRWom6kt_DY	40	katy perry	the one that got away	The One That Got Away by Katy Perry Choreo by RO						0	2.0	0.69314718056	choreo	official	dance	official	dance	nothing	official	remix	dance
+L9loYptxSQk	40	katy perry	the one that got away	"Katy Perry - ""The One That Got Away (Acoustic)"" Official Chord & Lyric Video"						0	2.0	0.69314718056	lyrics	cover	lyric	official	lyric	nothing	official	cover	lyric
+K0-ucWKiTps	40	katy perry	the one that got away	The One That Got Away - Katy Perry (Cover by Tiffany Alvord & Chester See)	tiffany chester see					0	2.0	0.69314718056	cover	cover	live	cover	live	nothing	cover	cover	live
+YDG6iPDk7EM	40	katy perry	the one that got away	The One That Got Away - Katy Perry - Easy Guitar Tutorial (No Capo)			guitar			0	2.0	0.69314718056	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+HOh7eR8wU7I	40	katy perry	the one that got away	Katy Perry: The One That Got Away Piano Cover			piano			0	2.0	0.69314718056	piano	cover	live	cover	live	nothing	cover	cover	live
+nVxsVWoHnNY	40	katy perry	the one that got away	The One That Got Away - Karaoke HD (In the style of Katy Perry)						0	2.0	0.69314718056	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+BLHpclvrPIQ	40	katy perry	the one that got away	Katy Perry - The One That Got Away (R3hab Remix) HD						0	10.0	2.30258509299	remix	remix	still	remix	still	nothing	remix	remix	still
+lPOM3i4YiPg	40	katy perry	the one that got away	Katy Perry - The One That Got Away - Video (Cover by Adam Stanton)	adam stanton					1	10.0	2.30258509299	cover	cover	other	cover	live	nothing	cover	cover	other
+sIKVl6vyq1Q	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Acoustic Cover DARIENNE)						1	16.0	2.77258872224	choreo	cover	live	official	dance	nothing	cover	cover	live
+x5FdNZicGYY	40	katy perry	the one that got away	(Katy Perry) The One That Got Away - Fingerstyle Version						1	17.0	2.83321334406	guitar	cover	live	cover	live	nothing	cover	cover	live
+NOX2l6spoSE	40	katy perry	the one that got away	Katy Perry - The One That Got Away & Thinking Of You (Live) Prismatic Tour  O2 London 30/05/14				london		1	18.0	2.8903717579	live	live	live	live	live	nothing	live	live	live
+QbYVZq_GuCU	40	katy perry	the one that got away	QQ Dance 2 ( 134 BPM Katy Perry - The One That Got Away )						1	19.0	2.94443897917	dance	official	dance	official	dance	nothing	remix	official	dance
+ckgVFezsOoI	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Lyrics Video) HD						1	19.0	2.94443897917	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+yVh921FYpe8	40	katy perry	the one that got away	Katy Perry - The One That Got Away Karaoke / Instrumental with backing vocals and lyrics						1	19.0	2.94443897917	karaoke	instrumental	still	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+QPqCvj7HYBc	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Teaser/Piano Version)			piano			1	20.0	2.99573227355	piano	remix	still	cover	live	nothing	cover	official	live
+vdikPl6kYos	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Remix) (feat B.o.B)						1	20.0	2.99573227355	remix	remix	still	remix	still	nothing	remix	remix	still
+of7UpqFQ9oQ	40	katy perry	the one that got away	Katy Perry - The One That Got Away - Karaoke						1	21.0	3.04452243772	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+urXM3RL0Ybw	40	katy perry	the one that got away	Katy Perry - The one that got away - American Music Awards 2011				american	2011	1	21.0	3.04452243772	live	live	live	live	live	nothing	live	live	live
+kAosM8TT84Y	40	katy perry	the one that got away	Katy Perry - The One That Got Away Makeup Tutorial Roar 2013 MTV Video Music Awards VMAs					2013	1	21.0	3.04452243772	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+jvwShpHTEOU	40	katy perry	the one that got away	The One That Got Away - Katy Perry (Bangkok Version)				bangkok		1	21.0	3.04452243772	title/artist	official	other	official	official	nothing	cover	official	live
+LMfzVFQazxo	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Kritikally Akklaimed Dance Mix)						1	21.0	3.04452243772	dance	remix	still	official	dance	nothing	remix	remix	still
+4uy-0A3LNlc	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Piano Cover)			piano			1	22.0	3.09104245336	piano	cover	live	cover	live	nothing	cover	cover	live
+cEBZEbiqM2M	40	katy perry	the one that got away	Katy Perry Live Concert 2015  The One That Got Away					2015	1	22.0	3.09104245336	concert	live	live	live	live	nothing	live	live	live
+UZC4QWfA0fs	40	katy perry	the one that got away	Katy Perry - The One That Got Away Bass Cover (With Tab)			bass			1	23.0	3.13549421593	tutorial	cover	live	tutorial	tutorial	nothing	cover	cover	live
+zcdlkMceTrI	40	katy perry	the one that got away	Katy Perry - The One That Got Away Piano Cover & CHORDS			piano			1	23.0	3.13549421593	piano	cover	live	cover	live	nothing	cover	cover	live
+ti-cxPhlLdQ	40	katy perry	the one that got away	The one that got away - Katy Perry (R3hab Extended Remix)						1	23.0	3.13549421593	remix	remix	still	remix	still	nothing	remix	remix	still
+9ZRwDK5rnuc	40	katy perry	the one that got away	Selena Gomez-The One That Got Away LIVE	selena gomez					1	23.0	3.13549421593	live	cover	live	live	live	nothing	live	cover	live
+28bLJ9BDL_g	40	katy perry	the one that got away	Katy Perry - The One That Got Away (R3hab Remix) - R3hab Concert @ Rich's Houston 3/16/2012	rich			houston	2012	1	24.0	3.17805383035	concert	remix	live	live	live	nothing	live	remix	live
+qX0IyrcpPNw	40	katy perry	the one that got away	Katy Perry - The One That Got Away (7th Heaven Radio Mix)[Remix]						1	24.0	3.17805383035	remix	remix	still	remix	still	nothing	remix	remix	still
+TcDlAKbcJqY	40	katy perry	the one that got away	Waltz - The One That Got Away (28 BPM)						1	26.0	3.25809653802	dance	cover	still	official	dance	nothing	remix	remix	still
+tcJBEVJss8M	40	katy perry	the one that got away	Katy Perry - The One That Got Away (jUdah Dubstep remix)		dubstep				5	88.0	4.47733681448	remix	remix	still	remix	still	nothing	remix	remix	still
+Vu0zJqMJuHc	40	katy perry	the one that got away	Katy Perry - The One That Got Away (Official Remix) Feat B.o.B						5	93.0	4.53259949315	remix	remix	still	remix	still	nothing	remix	remix	still
+CKP9rBjC0vE	40	katy perry	the one that got away	Katy Perry - The one that got away ( slower version piano only by FaMe)			piano			5	93.0	4.53259949315	piano	cover	still	cover	live	nothing	cover	cover	live
+y-h0l77a_H8	40	katy perry	the one that got away	The One That Got Away by Katy Perry - Piano Cover			piano			5	94.0	4.54329478227	piano	cover	live	cover	live	nothing	cover	cover	live
+ufWtHnjlax4	40	katy perry	the one that got away	Katy Perry The One That Got Away Remix - HOT 2012 !					2012	5	96.0	4.56434819147	remix	cover	still	remix	still	nothing	remix	remix	still
+Urbrf1qcGUU	40	katy perry	the one that got away	The One That Got Away - Katy Perry Cover						5	98.0	4.58496747867	cover	cover	live	cover	live	nothing	cover	cover	live
+KQbM9QmlnPk	40	katy perry	the one that got away	Katy Perry - The One That Got Away Lyrics						5	104.0	4.64439089914	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+Ai7D3WTdMf0	40	katy perry	the one that got away	Katy Perry - Thinking of You/The One That Got Away Live (Prismatic World Tour Sydney 2014)		world		sydney	2014	5	106.0	4.66343909411	live	live	live	live	live	nothing	live	live	live
+T3OUBwQ38Wk	40	katy perry	the one that got away	The One That Got Away (Spanish Version Katy Perry cover Jouvu)				spanish		5	107.0	4.67282883446	cover	cover	lyric	cover	live	nothing	cover	cover	other
+mO3iqMAxz1g	40	katy perry	the one that got away	Katy Perry: The One That Got Away/ Someone Like You in HQ						5	107.0	4.67282883446	dance	live	live	official	dance	nothing	official	cover	live
+-eL9LxMZfBo	40	katy perry	the one that got away	trjm@ 'Gny@ Katy Perry kyty byry The One That Got Away						5	120.0	4.78749174278	title/artist	official	lyric	official	official	nothing	cover	official	live
+EjiTC8mXRSA	40	katy perry	the one that got away	Katy Perry - The One That Got Away | Piano Cover by Megan	megan		piano			5	154.0	5.03695260241	piano	cover	live	cover	live	nothing	cover	cover	live
+VzLSpF-aL5I	40	katy perry	the one that got away	Katie Perry - The One That Got Away (R3hab Remix)	katie perry					15	289.0	5.66642668811	remix	remix	still	remix	still	nothing	remix	remix	still
+g-meoLWxyZI	40	katy perry	the one that got away	The one that got away (diamond boy vs Tronix DJ remix). Zumba routine by BAM Fitness	diamond					5	365.0	5.89989735358	choreo	remix	dance	official	dance	nothing	remix	remix	still
+UYAqkYgezXY	50	gym class heroes	ass back home	"Gym Class Heroes - ""Ass Back Home"" Ft. Neon Hitch -Cover Acoustic - HQ - LYRICS"						0	1.0	0.0	guitar	cover	live	cover	live	nothing	cover	cover	live
+Zj-BCSntQf0	50	gym class heroes	ass back home	Gym Class Heroes ft. Neon Hitch- Ass Back Home- Piano Cover			piano			0	1.0	0.0	piano	cover	live	cover	live	nothing	cover	cover	live
+jeWx5-zjLXQ	50	gym class heroes	ass back home	Gym Class Heroes  - Ass Back Home (SmarterChild & Oxymorrons Remix) LYRICS						0	1.0	0.0	remix	remix	lyric	remix	still	nothing	remix	remix	still
+ltOR2VzDZFM	50	gym class heroes	ass back home	Gym Class Heroes: Ass Back Home ft. Neon Hitch [OFFICIAL VIDEO]						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+Qj7jSnOxOck	50	gym class heroes	ass back home	Gym Class Heroes feat. Neon Hitch - Ass Back Home (Live on Today 02-03-2012) [HD 1080p]					2012	0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+ax9hjx2iETI	50	gym class heroes	ass back home	[Karaoke+Engsub+Vietsub] Ass Back Home - Gym Class Heroes ft. Neon Hitch						0	1.0	0.0	karaoke	official	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+cgav1iKOdSw	50	gym class heroes	ass back home	Gym Class Hereos Ass Back Home lyric video						0	1.0	0.0	title/artist	official	lyric	official	official	nothing	official	official	lyric
+z9ZTQohYlGw	50	gym class heroes	ass back home	Bill-Sofa Choreography Gym Class Heroes feat. Neon  - Ass Back Home	bill					0	1.0	0.0	choreo	official	dance	official	dance	nothing	official	official	dance
+f1AO597-JeY	50	gym class heroes	ass back home	Ass Back Home (Piano Cover) - Gym Class Heroes ft. Neon Hitch			piano			0	2.0	0.69314718056	piano	cover	live	cover	live	nothing	cover	cover	live
+jEtyAsBgUH4	50	gym class heroes	ass back home	Gym Class Heroes - Ass Back Home @ Kiss 108 Concert May 19  2012					2012  or  may	0	2.0	0.69314718056	concert	live	live	live	live	nothing	live	live	live
+pxhcx1tZWE0	50	gym class heroes	ass back home	Gym Class Heroes ft. Neon Hitch - Ass Back Home ( Dance Mix )						0	2.0	0.69314718056	dance	remix	still	official	dance	nothing	official	official	dance
+l3Omx6GDmsM	50	gym class heroes	ass back home	Gym Class Heroes ft. Neon Hitch - Ass Back Home (Sharkf3ng Electro Remix)		electro				0	2.0	0.69314718056	remix	remix	still	remix	still	nothing	remix	remix	still
+ArUu6D_MsT4	50	gym class heroes	ass back home	Gym Class Heroes Ft. Neon Hitch - Ass Back Home (Instrumental) [Download]						0	3.0	1.09861228867	karaoke	instrumental	still	instrumental	karaoke	nothing	remix	instrumental	still
+u8VWk6vX07I	50	gym class heroes	ass back home	Gym Class Heroes: Ass Back Home (Cover by Tiffany Alvord & Luke Conard)	tiffany luke					0	3.0	1.09861228867	cover	cover	other	cover	live	nothing	cover	cover	other
+ic8mslz3bkA	50	gym class heroes	ass back home	Ass Back Home | Part 1 | Derek	derek					0	3.0	1.09861228867	choreo	official	dance	official	dance	nothing	official	official	dance
+fxBYSOmgRHk	50	gym class heroes	ass back home	Ass Back Home - Gym Class Heroes (Breakerh Remix V2)						1	12.0	2.48490664979	remix	remix	still	remix	still	nothing	remix	remix	still
+Sdd4LexfcOE	50	gym class heroes	ass back home	Gym Class Heroes ft Neon Hitch - Ass Back Home (Cover)						1	15.0	2.7080502011	choreo	cover	other	official	dance	nothing	cover	cover	live
+jBVsXnucIoM	50	gym class heroes	ass back home	Gym Class Heroes- Ass Back Home ft. Neon Hitch(Deejay Oxxye Remix)						1	18.0	2.8903717579	dance	remix	still	official	dance	nothing	remix	remix	still
+lsCTlYBmLfg	50	gym class heroes	ass back home	"Gym Class Heroes ""Ass Back Home"" Live in Vancouver"				vancouver		1	19.0	2.94443897917	live	live	live	live	live	nothing	live	live	live
+4N9Qs2tRsIo	50	gym class heroes	ass back home	Ass Back Home - Gym Class Heroes ft. Neon Hitch. C						1	20.0	2.99573227355	choreo	official	dance	official	dance	nothing	official	official	dance
+Nan42xyXpWo	50	gym class heroes	ass back home	Gym Class Heroes - Ass Back Home (Envision Remix)						1	20.0	2.99573227355	remix	remix	still	remix	still	nothing	remix	remix	still
+dxI-sWIbSWY	50	gym class heroes	ass back home	Gym Class Heroes - Ass Back Home HD Lyrics						1	20.0	2.99573227355	lyrics	remix	still	official	lyric	nothing	official	official	lyric
+eWoo4qNM6Qs	50	gym class heroes	ass back home	Gym Class Heroes Vs. Kelly Clarkson - Ass Back Home feat. Neon Hitch (Mashup)	kelly					1	21.0	3.04452243772	karaoke	remix	still	instrumental	karaoke	nothing	remix	remix	still
+1Ef-OiBUW6c	50	gym class heroes	ass back home	Gym Class Heroes - Ass Back Home (Live in Jakarta  11 August 2012)				jakarta	2012/8/11	1	21.0	3.04452243772	live	live	live	live	live	nothing	live	live	live
+kJlM91GPIBA	50	gym class heroes	ass back home	Ass Back Home - Gym Class Heroes (cover) by VELASCO						1	21.0	3.04452243772	tutorial	cover	live	tutorial	tutorial	nothing	cover	cover	live
+JyGLyNxAYdE	50	gym class heroes	ass back home	[Lyrics] Gym Class Heroes - Ass back home						1	21.0	3.04452243772	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+E75NN3fQQiw	50	gym class heroes	ass back home	Gym Class Heroes - Ass Back Home [MUSIC VIDEO]						1	22.0	3.09104245336	piano	official	other	cover	live	nothing	cover	cover	other
+d4IpNphamCc	50	gym class heroes	ass back home	Me Singing Ass Back Home By Gym Class Heroes ft Neon Hitch						1	22.0	3.09104245336	karaoke	cover	live	instrumental	karaoke	nothing	cover	cover	live
+6U1y1G5LwOc	50	gym class heroes	ass back home	Gym Class Heroes - Ass Back Home						1	23.0	3.13549421593	concert	live	live	live	live	nothing	live	live	live
+KCKclWm_zFM	50	gym class heroes	ass back home	Unknown remix of Ass Back Home - Gym Class Heroes						1	46.0	3.82864139649	concert	remix	still	live	live	nothing	remix	remix	still
+wlBJ7dyo4Mo	50	gym class heroes	ass back home	GYM CLASS HEROES-ASS BACK HOME DD&KK REMIX						5	95.0	4.5538768916	remix	remix	still	remix	still	nothing	remix	official	still
+hdtI8IG1_lM	50	gym class heroes	ass back home	Gym Class Heroes  Ass back Home ( Electro Dirty House Remix)		house/electro				5	97.0	4.5747109785	remix	remix	slides	remix	still	nothing	remix	official	other
+TY2Z3UCNWBI	50	gym class heroes	ass back home	Gym Class Heroes - Ass Back Home (GearWolf Remix)						5	106.0	4.66343909411	remix	remix	still	remix	still	nothing	remix	remix	still
+_FKUfHNYues	50	gym class heroes	ass back home	Ass Back Home drum cover by Huzaimi Lim			drum			5	106.0	4.66343909411	tutorial	cover	live	tutorial	tutorial	nothing	cover	official	live
+loKdyw90mOI	50	gym class heroes	ass back home	speed paint drawing on sai paint tool- get your ass back home						5	107.0	4.67282883446	choreo	official	other	official	dance	nothing	cover	official	still
+_Q2VXm9nCDk	50	gym class heroes	ass back home	Timeflies Tuesday Ass Back Home					2015/10/20	5	108.0	4.68213122712	concert	remix	still	live	live	nothing	cover	remix	live
+I-d2x5oLUZo	60	gym class heroes	stereo hearts	Gym class heroes - Stereo Hearts ( Dillon Francis remix ) -DUB4U[HD]	dillon francis					0	1.0	0.0	remix	remix	still	remix	still	nothing	remix	remix	still
+XaaiHFmLYgQ	60	gym class heroes	stereo hearts	Gym Class Heroes feat. Adam Levine - Stereo Hearts (Live on Today 02-03-2012) [HD 1080p]					2012	0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+T3E9Wjbq44E	60	gym class heroes	stereo hearts	Gym Class Heroes: Stereo Hearts ft. Adam Levine [OFFICIAL VIDEO]						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+Y_dL6001lCU	60	gym class heroes	stereo hearts	Gym Class Heroes feat. Adam Levine - Stereo Hearts (2011 American Music Awards)				american	2011	0	1.0	0.0	concert	live	live	live	live	nothing	live	live	live
+lRNOvr645JA	60	gym class heroes	stereo hearts	Stereo Hearts - Gym Class Heroes ft Adam Levine - Easy Guitar Tutorial (No Capo)			guitar			0	1.0	0.0	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+0UfD2nbwYbc	60	gym class heroes	stereo hearts	"diSiac Workshops: Dave Gupta '16 - ""Stereo Hearts"" by Gym Class Heroes"	dave					0	1.0	0.0	choreo	official	dance	official	dance	nothing	cover	official	dance
+C8lCwQsE2Oc	60	gym class heroes	stereo hearts	Gym Class Heroes ft. Adam Levine - Stereo Hearts (Karaoke Version)						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+QBL-x4Vv5Ow	60	gym class heroes	stereo hearts	Gym Class Heroes - Stereo Hearts (Piano Cover) by LittleTranscriber			piano			0	1.0	0.0	piano	cover	tutorial	cover	live	nothing	cover	cover	tutorial
+fsbW4U2Mwfk	60	gym class heroes	stereo hearts	Gym Class Heroes: Stereo Hearts (MattyBRaps Cover ft Skylar Stecker)						0	1.0	0.0	cover	cover	other	cover	live	nothing	cover	cover	live
+9TLV9XjkI0o	60	gym class heroes	stereo hearts	GYM CLASS HEROES - STEREO HEARTS REMIX						0	2.0	0.69314718056	remix	remix	still	remix	still	nothing	remix	remix	still
+5PnE_zJuxgY	60	gym class heroes	stereo hearts	Stereo Hearts - Gym Class Heroes (Avery iphone cover)	avery					0	2.0	0.69314718056	cover	cover	other	cover	live	nothing	cover	cover	live
+QOLohX4_NuY	60	gym class heroes	stereo hearts	Gym Class Heroes - Stereo Hearts ft. Adam Levine | Piano Cover by Pianistmiri			piano			0	2.0	0.69314718056	piano	cover	live	cover	live	nothing	cover	cover	live
+AVjsfxFGwbg	60	gym class heroes	stereo hearts	How To Play:  Stereo Hearts by Gym Class Heroes - Piano Tutorial EASY			piano			0	2.0	0.69314718056	tutorial	cover	live	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+m10M1cXcCwE	60	gym class heroes	stereo hearts	Maroon 5 feat. Gym Class Heroes - Moves Like Jagger / Stereo Hearts (American Music Awards 2011)				american	2011	0	2.0	0.69314718056	live	live	live	live	live	nothing	live	live	live
+-ROew_N86LU	60	gym class heroes	stereo hearts	"How to Play ""Stereo Hearts"" by Gym Class Heroes ft. Adam Levine on Guitar"			guitar			0	2.0	0.69314718056	guitar	tutorial	tutorial	cover	live	nothing	tutorial	tutorial	tutorial
+0ZFUHhLTuPU	60	gym class heroes	stereo hearts	Stereo Hearts- Gym Class Heroes  II  Ben Carter Choreography  II	ben carter					0	2.0	0.69314718056	choreo	official	dance	official	dance	nothing	official	official	dance
+_nnYevCbLYI	60	gym class heroes	stereo hearts	G24852   Stereo Hearts Karaoke   Gym Class Heroes feat  Adam Levine						0	2.0	0.69314718056	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+MUGRG57c-s0	60	gym class heroes	stereo hearts	Stereo Hearts - Gym Class Heroes (Dance Cover)						0	3.0	1.09861228867	dance	official	dance	official	dance	nothing	official	official	dance
+cO8MX5kVWYU	60	gym class heroes	stereo hearts	Gym Class Heroes ft Adam Levine - Stereo Hearts (Dillon Francis Remix)	dillon francis					1	14.0	2.63905732962	remix	remix	still	remix	still	nothing	remix	remix	still
+0-ukDKVxNWg	60	gym class heroes	stereo hearts	Skelly Heart - A Minecraft Parody of Gym Class Heroes' Stereo Hearts (Music Video)		parody				1	16.0	2.77258872224	remix	cover	other	remix	still	nothing	official	cover	other
+WgA0NniBJvE	60	gym class heroes	stereo hearts	Gym Class Heroes: (Stereo Hearts MattyBRaps Cover ft. Skylar Stecker) (Lyrics)						1	17.0	2.83321334406	lyrics	cover	other	official	lyric	nothing	cover	cover	live
+VtuT_6p3-HI	60	gym class heroes	stereo hearts	Above The Broken - Stereo Hearts (Gym Class Heroes Cover) [8] (Live @ Hawthorne Theatre  01-11-2012)					2012	1	19.0	2.94443897917	live	live	live	live	live	nothing	live	live	live
+lltsuS0aGV0	60	gym class heroes	stereo hearts	Megan and Liz - Stereo Hearts LYRICS	megan liz					1	20.0	2.99573227355	karaoke	cover	still	instrumental	karaoke	nothing	cover	cover	live
+QeQdA3-0ohE	60	gym class heroes	stereo hearts	Gym Class Heroes- Stereo Hearts (Cover)						1	20.0	2.99573227355	choreo	cover	live	official	dance	nothing	cover	official	live
+weBBmOHT7JE	60	gym class heroes	stereo hearts	Gym Class Heroes - Stereo Hearts - Piano Cover - Moy Yee	yee		piano			1	20.0	2.99573227355	piano	cover	live	cover	live	nothing	cover	cover	live
+Y3ZYEELIADI	60	gym class heroes	stereo hearts	Gym Class Heroes   Stereo Hearts ft Adam Levine Subtitulado al Espanol	al					1	20.0	2.99573227355	lyrics	official	official	official	lyric	nothing	official	official	lyric
+1rKMHwfYOj0	60	gym class heroes	stereo hearts	Justin ryan--Gym Class Heroes  Stereo Hearts ft. Adam Levine (Piano Cover)	justin ryan		piano			1	21.0	3.04452243772	piano	cover	live	cover	live	nothing	cover	cover	live
+9mikifXSNiY	60	gym class heroes	stereo hearts	Popping  Gym Class Heroes- Stereo Hearts ft. Adam Levine						1	21.0	3.04452243772	choreo	official	dance	official	dance	nothing	official	official	dance
+MeQ32iIM4jA	60	gym class heroes	stereo hearts	Stereo Hearts Gym Class Heroes ft Adam Levine Karaoke						1	21.0	3.04452243772	karaoke	instrumental	still	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+FMTw9gh4WgM	60	gym class heroes	stereo hearts	Stereo Hearts (Gym Class Heroes) - UMBC Mama's Boys - Live at UMD - April 2012					2012/4/1	1	21.0	3.04452243772	live	cover	live	live	live	nothing	live	live	live
+SP67hc_3l8w	60	gym class heroes	stereo hearts	Gym Class Heroes- Stereo Hearts (Keyboard Tutorial)			keyboard			1	21.0	3.04452243772	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	cover	tutorial
+Nb6Q1ocA3vg	60	gym class heroes	stereo hearts	Gym Class Heroes - Stereo Hearts (Cali Carma Freestyle)	carma			cali		1	22.0	3.09104245336	choreo	cover	still	official	dance	nothing	official	remix	still
+78mStjfqnh8	60	gym class heroes	stereo hearts	Gym Class Heroes Ft. Adam Levine - Stereo Hearts Piano by Corentin Fernandez	fernandez		piano			1	22.0	3.09104245336	piano	cover	live	cover	live	nothing	cover	cover	live
+WDdyHlrNksc	60	gym class heroes	stereo hearts	Stereo Hearts (Gym Class Heroes) Easy Guitar Lesson How to Play Tutorial			guitar			1	23.0	3.13549421593	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+s8C3tbHypZA	60	gym class heroes	stereo hearts	Lyrics - Stereo Hearts   Gym Class Heroes Ft  Adam Levine Avery iphone cover	avery					1	23.0	3.13549421593	lyrics	cover	other	official	lyric	nothing	cover	cover	live
+iQbcIUze3CQ	60	gym class heroes	stereo hearts	Stereo Hearts - Gym Class Heroes						1	24.0	3.17805383035	concert	live	live	live	live	nothing	live	live	live
+1cV-j39VLrs	60	gym class heroes	stereo hearts	KPOP Dance Mashup (Stereo Hearts_Gym Class Heroes)						1	26.0	3.25809653802	dance	official	dance	official	dance	nothing	official	official	dance
+89dgyNF0pNM	60	gym class heroes	stereo hearts	Stereo Hearts - Gym Class Heroes - DRUM COVER - Adventure Drums			drum			1	34.0	3.52636052462	cover	cover	other	cover	live	nothing	cover	cover	live
+n3hoIFXiO94	60	gym class heroes	stereo hearts	Stereo Hearts - Gym Class Heroes (Elias Dubstep Remix)	elias	dubstep				1	40.0	3.68887945411	remix	remix	still	remix	still	nothing	remix	remix	still
+g7F5kGaUiYw	60	gym class heroes	stereo hearts	STEREO HEARTS - GYM CLASS HEROES FT. ADAM LEVINE PIANO COVER [HQ]			piano			5	72.0	4.27666611902	piano	cover	live	cover	live	nothing	cover	cover	live
+PSNHrqYTMrs	60	gym class heroes	stereo hearts	Airplanes / Stereo Hearts - Paramore/Gym Class Heroes cover by Chlara						5	97.0	4.5747109785	live	cover	live	live	live	nothing	cover	cover	live
+itJLmeLWQtk	60	gym class heroes	stereo hearts	Gym Class Heroes - Stereo Hearts ( Sanne & Quinty FoXart cover)						5	98.0	4.58496747867	cover	cover	live	cover	live	nothing	cover	cover	live
+LQS-qVSfmS8	60	gym class heroes	stereo hearts	Stereo hearts guitar tutorial			guitar			5	98.0	4.58496747867	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	cover	cover	tutorial
+OSr4WMVFgEs	60	gym class heroes	stereo hearts	Stereo Hearts (Remix) Gym Class Heroes ft. Megan Nicole	megan nicole					5	99.0	4.59511985013	remix	remix	still	remix	still	nothing	remix	remix	live
+ek4yS7LzK84	60	gym class heroes	stereo hearts	Gym Class Heroes - Stereo Hearts Lyrics ft. Adam Levine (Lyrics)						5	100.0	4.60517018599	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+HHCpcfAqQ40	60	gym class heroes	stereo hearts	Playing Piano at the Airport - Stereo Hearts by Gym Class Heroes			piano			5	101.0	4.61512051684	piano	cover	live	cover	live	nothing	cover	cover	live
+IbPvMZO00TY	60	gym class heroes	stereo hearts	Gym Class Heroes-Stereo Hearts ft Adam Levine Lyrics						5	103.0	4.63472898823	lyrics	official	still	official	lyric	nothing	official	official	lyric
+YKtfrwyIiSE	60	gym class heroes	stereo hearts	Gym Class Heroes- Stereo Hearts Ft. Adam levine (Rock Cover)		rock				5	103.0	4.63472898823	cover	cover	other	cover	live	nothing	cover	cover	live
+mU7Ld4QXZ9M	60	gym class heroes	stereo hearts	Stereo Hearts - Gym Class Heroes Rock Remix/Guitar Cover		rock	guitar			5	105.0	4.65396035016	remix	cover	live	remix	still	nothing	cover	cover	live
+ZKmPwtPEt0o	60	gym class heroes	stereo hearts	Stereo Hearts - Lyrics						5	105.0	4.65396035016	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+vCSFYKhGa9g	60	gym class heroes	stereo hearts	Stereo Hearts-Paradise Fears (acoustic cover) +lyrics						5	105.0	4.65396035016	karaoke	cover	lyric	instrumental	karaoke	nothing	cover	cover	still
+QxgPc4QLSH8	60	gym class heroes	stereo hearts	Bdazzled dance studio stereo hearts dance						5	120.0	4.78749174278	dance	official	dance	official	dance	nothing	official	official	dance
+XtKVVpt9OXQ	60	gym class heroes	stereo hearts	Gym class heroes ft  Adam Levine   Stereo hearts Subtitulada al espanol	al					1	132.0	4.88280192259	title/artist	official	lyric	official	official	nothing	official	official	lyric
+QGjBX4mLYdU	60	gym class heroes	stereo hearts	Stereo Hearts - Maroon 5 live @ itunes festival 2014					2014	15	278.0	5.62762111369	live	cover	live	live	live	nothing	live	live	live
+0QWNNFCkpDc	60	gym class heroes	stereo hearts	Forever Young And Stereo Hearts on piano For N.S & I.S From E.M	young		piano			15	280.0	5.63478960317	piano	cover	live	cover	live	nothing	live	live	live
+PhhTkgy3UcQ	60	gym class heroes	stereo hearts	Gym Class Heroes - Stereo Hearts						15	296.0	5.69035945432	title/artist	cover	live	official	official	nothing	official	cover	live
+zuXlk21cM0I	60	gym class heroes	stereo hearts	Niall Horan Stereo Hearts Cover live						15	297.0	5.6937321388	live	cover	other	live	live	nothing	live	cover	live
+dIQzoZxfLYM	60	gym class heroes	stereo hearts	Gym Class Heroes -- Stereo Hearts (Cover)						15	301.0	5.70711026475	cover	cover	live	cover	live	nothing	cover	cover	live
+L8b2_rZsBZ0	60	gym class heroes	stereo hearts	Joseph Vincent- Stereo Hearts remix lyrics	joseph vincent					15	304.0	5.71702770141	remix	cover	lyric	remix	still	nothing	remix	cover	still
+7ei0FVcGpL8	60	gym class heroes	stereo hearts	Stereo Hearts - Gym Class Heroes Ft. Adam Levine and Travie McCoy	mccoy					15	306.0	5.72358510195	guitar	official	slides	cover	live	nothing	cover	official	live
+mhPLp9Rf8Bk	60	gym class heroes	stereo hearts	Gym Class Heroes (ft. Adam Levine) - Stereo Hearts (Cover)						15	308.0	5.73009978297	cover	cover	live	cover	live	nothing	cover	cover	live
+-fmCoUjOMXU	70	adele	rolling in the deep	Adele LIVE: Rolling in the deep						0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+rYEDA3JcQqw	70	adele	rolling in the deep	Adele - Rolling in the Deep						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+-O49BRUvWXw	70	adele	rolling in the deep	How to play Rolling In The Deep by Adele (Guitar Lesson SB-209)			guitar			0	1.0	0.0	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+R8reCaNtBGs	70	adele	rolling in the deep	Adele - Rolling In The Deep {HD Karaoke}						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+mBRUkdQa6Is	70	adele	rolling in the deep	Adele - Rolling in the Deep - lyrics						0	1.0	0.0	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+lUjWJSnGVB0	70	adele	rolling in the deep	Adele - Rolling in the Deep (Piano/Cello Cover) - ThePianoGuys			cello & piano			0	1.0	0.0	piano	cover	other	cover	live	nothing	cover	cover	live
+UigMj980qEw	70	adele	rolling in the deep	Adele Rolling in the deep Choreo						0	1.0	0.0	choreo	official	dance	official	dance	nothing	official	official	dance
+k3bzXdW-7AQ	70	adele	rolling in the deep	Adele - Rolling in the Deep + Lyrics						0	2.0	0.69314718056	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+QlcLQgICCz0	70	adele	rolling in the deep	Adele - Rolling in the deep (Tom Buster & Kidzoy remix)	tom buster					0	2.0	0.69314718056	remix	remix	still	remix	still	nothing	remix	remix	still
+R-pRYHJ8v6w	70	adele	rolling in the deep	Adele - Rolling in the Deep -  Acoustic Guitar Lessons - How to Play on Guitar - Tutorial			acoustic guitar & guitar			0	2.0	0.69314718056	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+FGyIBnzJiyU	70	adele	rolling in the deep	Adele - Rolling in the Deep (ft. guest Artist  Amanda Scott) - ThePianoGuys	amanda scott					0	2.0	0.69314718056	piano	cover	other	cover	live	nothing	cover	cover	other
+LOd3u6FtkAk	70	adele	rolling in the deep	Adele - Rolling In The Deep (Karaoke Version)						0	2.0	0.69314718056	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+dHtwZ07N1ic	70	adele	rolling in the deep	Adele - Rolling In The Deep [Live] (Linkin Park Cover)	park					0	2.0	0.69314718056	cover	cover	live	cover	live	nothing	live	live	live
+O-Dmt2-7VqQ	70	adele	rolling in the deep	Adele - Rolling In The Deep (Live at Largo)						0	2.0	0.69314718056	concert	live	live	live	live	nothing	live	live	live
+5qGn5wyvEkM	70	adele	rolling in the deep	Rolling In The Deep - Line Dance (Dance & Teach in English & Zhong Wen )	english wen					0	3.0	1.09861228867	dance	tutorial	tutorial	official	dance	nothing	official	official	dance
+mkTMj0McIvc	70	adele	rolling in the deep	Adele - Rolling in the Deep (Jamie xx Remix) ft. Childish Gambino	jamie					0	3.0	1.09861228867	remix	remix	still	remix	still	nothing	remix	remix	still
+pMsM6YaPZUk	70	adele	rolling in the deep	Tiffanie Carson Choreography | Rolling in the Deep | Adele	tiffanie carson					0	4.0	1.38629436112	choreo	official	dance	official	dance	nothing	official	official	dance
+k7w2OGPU4ow	70	adele	rolling in the deep	Adele Rolling in the Deep - Dance remix/mash-up						1	12.0	2.48490664979	dance	remix	still	official	dance	nothing	remix	remix	dance
+lgyJecfUVcE	70	adele	rolling in the deep	ADELE - Rolling in the Deep (Live at the United Palace Theatre)						1	14.0	2.63905732962	concert	live	live	live	live	nothing	live	live	live
+EqglK5V_gWg	70	adele	rolling in the deep	Adele - Rolling In The Deep Piano Tutorial  (Synthesia + Sheets + MIDI)			piano			1	16.0	2.77258872224	tutorial	cover	tutorial	tutorial	tutorial	nothing	cover	cover	tutorial
+yQuJOt-21do	70	adele	rolling in the deep	Adele - Rolling In The Deep (karaoke version with back vocals)						1	17.0	2.83321334406	karaoke	instrumental	still	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+sr1gERgQu0c	70	adele	rolling in the deep	Adele - Rolling In The Deep - Lyrics						1	17.0	2.83321334406	lyrics	official	official	official	lyric	nothing	official	official	lyric
+70uON8UR31g	70	adele	rolling in the deep	Adele - Rolling in the deep (reggae version by Reggaesta)		reggae				1	17.0	2.83321334406	title/artist	remix	other	official	official	nothing	remix	remix	still
+nsqh9jHkHlM	70	adele	rolling in the deep	DIRTY LOOPS - Rolling In The Deep (Adele Cover)						1	18.0	2.8903717579	cover	cover	other	cover	live	nothing	cover	cover	live
+FogQA55WByc	70	adele	rolling in the deep	Adele - Rolling in the Deep (VILLA remix)						1	18.0	2.8903717579	remix	remix	still	remix	still	nothing	remix	remix	still
+dxQZm5ngpNw	70	adele	rolling in the deep	Rolling in the Deep by Adele  Choreography by Daphnie Yang	yang					1	18.0	2.8903717579	choreo	official	dance	official	dance	nothing	official	official	dance
+cWhv4yfI5tI	70	adele	rolling in the deep	Adele feat. The Piano Guys - Rolling in the Deep [mashup]			piano			1	20.0	2.99573227355	piano	cover	still	cover	live	nothing	cover	cover	live
+Q5a9x4B1tfA	70	adele	rolling in the deep	Adele - Rolling In The Deep (Spectrasoul Remix)						1	20.0	2.99573227355	remix	remix	still	remix	still	nothing	remix	remix	still
+e8DnsQS_fBY	70	adele	rolling in the deep	Rolling In The Deep (Adele) DOMINIQUE karaoke cover	dominique					1	20.0	2.99573227355	karaoke	cover	live	instrumental	karaoke	nothing	cover	cover	live
+lEGp3n0iocI	70	adele	rolling in the deep	laurien decibel choreography adele rolling in the deep						1	21.0	3.04452243772	choreo	official	dance	official	dance	nothing	official	official	dance
+ZdaJCYd2dLI	70	adele	rolling in the deep	ADELE - ROLLING IN THE DEEP DUBSTEP | DANCE		dubstep				1	21.0	3.04452243772	dance	remix	dance	official	dance	nothing	remix	remix	dance
+8W1Tjr1BegI	70	adele	rolling in the deep	Adele - Rolling In The Deep lyrics HD						1	21.0	3.04452243772	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+tt2NIDtp-Ls	70	adele	rolling in the deep	Rolling in the Deep - Adele (violin/cello/bass cover) - Simply Three			bass & cello & violin			1	21.0	3.04452243772	cover	cover	other	cover	live	nothing	cover	cover	live
+FCUbpii6YmY	70	adele	rolling in the deep	Rolling in the Deep - Adele- Vivien bei Young Stars in Concert 2012	vivien young				2012	1	21.0	3.04452243772	concert	live	live	live	live	nothing	live	live	live
+tJ9HTDhKZoo	70	adele	rolling in the deep	Rolling In The Deep (Adele) - Acoustic Guitar Trio (Thomas Zwijsen / Glenn Roth / Ben Woods)	thomas glenn roth ben woods		acoustic guitar & guitar			1	22.0	3.09104245336	guitar	cover	other	cover	live	nothing	cover	cover	live
+XYKdVE1Fdl8	70	adele	rolling in the deep	"Adele - ""Rolling In The Deep (Acoustic)"""						1	23.0	3.13549421593	live	live	live	live	live	nothing	cover	cover	live
+eHjBSTLjQXA	70	adele	rolling in the deep	Adele-Rolling In The Deep Choreography By FREEDOM Featuring Patryk Brdej						1	24.0	3.17805383035	choreo	official	dance	official	dance	nothing	official	official	dance
+wNQE-_lbnRY	70	adele	rolling in the deep	Adele - Rolling in the Deep LIVE cover by Megan Lee	megan lee					1	25.0	3.21887582487	live	cover	live	live	live	nothing	cover	cover	live
+vqPo1NxIM_A	70	adele	rolling in the deep	Sarah Geronimo - Rolling in the Deep [Adele] OFFCAM (25Sep11)	sarah					1	25.0	3.21887582487	dance	live	live	official	dance	nothing	cover	cover	other
+9bShXv1yUDg	70	adele	rolling in the deep	Adele - Rolling in the Deep - Piano [HD]			piano			1	25.0	3.21887582487	piano	cover	live	cover	live	nothing	cover	cover	live
+VQaC3o4Tmm8	70	adele	rolling in the deep	Rolling In The Deep (Adele Cover) by The All Ways						1	28.0	3.33220451018	cover	cover	other	cover	live	nothing	cover	cover	live
+nkSYLLXbpzs	70	adele	rolling in the deep	Adele - Rolling In The Deep (Tom Buster & Kidzoy Full Length Remix)	tom buster					5	89.0	4.48863636973	remix	remix	still	remix	still	nothing	cover	remix	still
+_YKgoo9Pt5w	70	adele	rolling in the deep	Adele Rolling in the Deep - (Keyboard Tutorial)			keyboard			5	94.0	4.54329478227	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	cover	cover	live
+S9kbG3bTuPU	70	adele	rolling in the deep	Amazing 9 years old Singer sings Adele - Rolling In The Deep from GOT TALENT					2024/10/16	5	94.0	4.54329478227	title/artist	live	live	official	official	nothing	official	live	live
+W6BV0viUy2M	70	adele	rolling in the deep	Ayda Mosharraf - Adele - Rolling in the Deep (Cover)						5	95.0	4.5538768916	cover	cover	live	cover	live	nothing	cover	cover	live
+mOMueARonZ4	70	adele	rolling in the deep	Adele - Rolling In the Deep // SMS Remix						5	96.0	4.56434819147	remix	remix	still	remix	still	nothing	remix	remix	still
+MC8FrEUW9Rc	70	adele	rolling in the deep	ROLLING IN THE DEEP (Adele / Linkin Park) Mo Anton LIVE	park anton					5	97.0	4.5747109785	live	live	live	live	live	nothing	remix	live	live
+WeA2isWsFoM	70	adele	rolling in the deep	Adele - Rolling In The Deep - Guitar Cover			guitar			5	99.0	4.59511985013	guitar	cover	live	cover	live	nothing	cover	cover	live
+ItOO67n8dgU	70	adele	rolling in the deep	"Me Singing ""Rolling In The Deep"" - Adele"						5	100.0	4.60517018599	karaoke	cover	live	instrumental	karaoke	nothing	cover	cover	live
+BXBOgRwI0wo	70	adele	rolling in the deep	Adele Rolling In The Deep Synthesia						5	101.0	4.61512051684	tutorial	cover	tutorial	tutorial	tutorial	nothing	tutorial	cover	tutorial
+HQv1CAwV1Vs	70	adele	rolling in the deep	Adele - Rolling in the deep MONGOLIAN COVER				mongolian		5	101.0	4.61512051684	choreo	cover	live	official	dance	nothing	cover	cover	live
+nGd3nhG6ikI	70	adele	rolling in the deep	Adele - Rolling In The Deep lyrics | letra						5	101.0	4.61512051684	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+wGDvgBAJS8Y	70	adele	rolling in the deep	150318 ssielssi debwi yaoe syokeiseu(CLC Showcase) Adele 'Rolling In The Deep' by ohbest						5	102.0	4.62497281328	choreo	live	live	official	dance	nothing	official	cover	live
+SFgZjWjUXk0	70	adele	rolling in the deep	Rolling in the deep By Glee cast [With lyrics.!]						5	102.0	4.62497281328	lyrics	cover	lyric	official	lyric	nothing	official	cover	lyric
+ENtgak1v6_Y	70	adele	rolling in the deep	Marie Christine Levesque open mic - Adele (cover) karaoke Rolling In The Deep.wmv	marie christine					5	103.0	4.63472898823	karaoke	cover	live	instrumental	karaoke	nothing	cover	live	live
+t8wWN_rhB7A	70	adele	rolling in the deep	Rolling In The Deep (Adele) A Cappella Cover - The Harmonettes		a cappella				5	103.0	4.63472898823	concert	cover	live	live	live	nothing	cover	cover	live
+19So0WPiTTE	70	adele	rolling in the deep	"Karaoke Covers: ""Rolling in the Deep"" by Adele"						5	104.0	4.64439089914	karaoke	cover	live	instrumental	karaoke	nothing	instrumental	cover	still
+rPyL-bF-PIM	70	adele	rolling in the deep	Adele   Rolling In The Deep Live on Letterman						5	104.0	4.64439089914	concert	live	live	live	live	nothing	live	live	live
+qVGgorJA45M	70	adele	rolling in the deep	Guitar Lesson: Adele - Rolling In The Deep			guitar			5	106.0	4.66343909411	guitar	tutorial	tutorial	cover	live	nothing	tutorial	cover	tutorial
+tNTvvCaCWgA	70	adele	rolling in the deep	Aden does Fire Dancing  Rolling In The Deep  Adele. 3G unedit				aden		5	108.0	4.68213122712	dance	official	dance	official	dance	nothing	live	official	dance
+idaoG74UKzg	70	adele	rolling in the deep	Misha B is Rolling In The Deep - The X Factor 2011 Live Show 1 - itv.com/xfactor	misha				2011	5	122.0	4.80402104473	live	live	live	live	live	nothing	live	live	live
+7MB7fcg2xgA	70	adele	rolling in the deep	TUTORIAL Rolling in the Deep - Adele iPhone Piano / iPod Touch Piano			piano			5	122.0	4.80402104473	tutorial	cover	other	tutorial	tutorial	nothing	cover	cover	tutorial
+OBSeg81-Aug	70	adele	rolling in the deep	Adele - Rolling in the deep (UBM Chillout Remix)						5	132.0	4.88280192259	remix	remix	still	remix	still	nothing	remix	remix	still
+4wqOXwOrclQ	70	adele	rolling in the deep	Adele - Rolling In The Deep - Live At The Royal Albert Hall (2011) (high quality) (HD)	royal albert hall			high	2011	15	165.0	5.1059454739	live	live	still	live	live	nothing	cover	live	live
+NVHn6PF42Bw	70	adele	rolling in the deep	Adele Rolling in the Deep Flamenco Guitar style			guitar			5	167.0	5.11799381242	guitar	cover	still	cover	live	nothing	cover	cover	live
+taBjVgYmedQ	70	adele	rolling in the deep	Play Rolling In the Deep like Adele						15	232.0	5.44673737167	guitar	cover	live	cover	live	nothing	cover	cover	live
+OOUY3JAHAtk	70	adele	rolling in the deep	Vazquez Sounds Parody - Rolling In The Poop - Rolling In The Deep Adele cover by Latex Sounds	vazquez	parody				15	270.0	5.598421959	lyrics	cover	other	official	lyric	nothing	cover	live	live
+LepEsVAWzeM	70	adele	rolling in the deep	Rolling in the Deep - Adele - Lyrics On Screen						15	291.0	5.67332326717	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+15cYhG1_Bas	70	adele	rolling in the deep	Adele- 'Rolling in the Deep' Cover Tabitha Omaji	tabitha					15	294.0	5.68357976734	choreo	cover	live	official	dance	nothing	cover	cover	live
+04pzQBSa38o	70	adele	rolling in the deep	Adele Rolling In The Deep - Kate Harski cover	kate					15	297.0	5.6937321388	piano	cover	live	cover	live	nothing	cover	cover	live
+qSecNbArqsE	70	adele	rolling in the deep	Guzheng Adele ROLLING IN THE DEEP						15	301.0	5.70711026475	concert	cover	live	live	live	nothing	cover	cover	live
+cX5wCAT9oo4	70	adele	rolling in the deep	Adele - Rolling in the Deep [lyrics + Deutsche Ubersetzung]						5	303.0	5.71373280551	lyrics	official	lyric	official	lyric	nothing	official	cover	lyric
+Uj366NpMKo8	70	adele	rolling in the deep	ADELE - ROLLING IN THE DEEP ( COVER )						15	303.0	5.71373280551	guitar	cover	live	cover	live	nothing	cover	cover	live
+hTDeVTMOwNU	70	adele	rolling in the deep	Adele-Rolling In The Deep Cover by Miniworld						15	306.0	5.72358510195	piano	cover	live	cover	live	nothing	cover	cover	live
+Z7YBEa_mk-4	70	adele	rolling in the deep	Rolling In The Deep cover Adele (Giang hap).AVI						15	313.0	5.74620319054	choreo	cover	live	official	dance	nothing	cover	cover	live
+Yn1eR0sn8EA	70	adele	rolling in the deep	MAGACIN ROCK BAND - Adele - Rolling in the deep LIVE		rock				15	318.0	5.76205138278	live	live	live	live	live	nothing	cover	cover	live
+oQ4NUiK_Lag	70	adele	rolling in the deep	TOP 10 Adele - Rolling in the Deep Cover						15	319.0	5.76519110278	cover	cover	live	cover	live	nothing	cover	cover	live
+K89MeHVis4c	70	adele	rolling in the deep	Adele - Rolling In The Deep Cover						15	365.0	5.89989735358	choreo	cover	live	official	dance	nothing	cover	cover	live
+K_yip4Ipjg8	70	adele	rolling in the deep	Adele - Rolling in the Deep (Jake Moss Trap Remix)	jake moss	trap				15	408.0	6.0112671744	remix	remix	still	remix	still	nothing	remix	remix	still
+pf4aSxDvlPw	80	train	50 ways to say goodbye	Train - 50 Ways To Say Goodbye (Lyric Video)						0	1.0	0.0	title/artist	official	lyric	official	official	nothing	official	official	lyric
+Hzwtfnms-kE	80	train	50 ways to say goodbye	Train - 50 Ways To Say Goodbye (Live on Letterman)						0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+N2miuLQHqks	80	train	50 ways to say goodbye	50 Ways to Say Goodbye - Train [Piano Tutorial] (Synthesia)			piano			0	1.0	0.0	tutorial	cover	tutorial	tutorial	tutorial	nothing	cover	cover	tutorial
+x2JTIwfziTA	80	train	50 ways to say goodbye	"REFIT Dance Fitness ""50 Ways To Say Goodbye"" Pop Fusion"		fusion/pop				0	1.0	0.0	dance	official	dance	official	dance	nothing	official	official	dance
+ZUpUXOBPpbU	80	train	50 ways to say goodbye	50 Ways To Say Goodbye -Train - Karaoke						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+q_3G1p9szf4	80	train	50 ways to say goodbye	50 Ways To Say Goodbye | Train | Marvin | Choreography	marvin					0	1.0	0.0	choreo	official	dance	official	dance	nothing	official	official	dance
+75RPGNRT4Qs	80	train	50 ways to say goodbye	50 Ways To Say Goodbye by Train - Guitar Lesson - How to Play			guitar			0	2.0	0.69314718056	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+GSBFehvLJDc	80	train	50 ways to say goodbye	Train - 50 Ways to Say Goodbye						0	2.0	0.69314718056	title/artist	official	official	official	official	official	official	official	official
+b0YlJx3quaM	80	train	50 ways to say goodbye	Train - 50 Ways to Say Goodbye [ live on David Letterman 2012 ] ( lyrics )	david				2012	0	2.0	0.69314718056	live	live	live	live	live	nothing	live	official	live
+WKE1c6pV7uo	80	train	50 ways to say goodbye	Train - 50 Ways To Say Goodbye Lyrics						0	2.0	0.69314718056	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+03RFHdQFBJ4	80	train	50 ways to say goodbye	50 ways to say goodbye (Train) - Lucie Tvrdonova	lucie					0	2.0	0.69314718056	choreo	official	dance	official	dance	nothing	official	official	dance
+Z080PVXer-E	80	train	50 ways to say goodbye	Train (Concert) - 50 Ways To Say Goodbye						0	2.0	0.69314718056	concert	live	live	live	live	nothing	live	live	live
+aoor2k4VdCw	80	train	50 ways to say goodbye	Train - 50 Ways to Say Goodbye | Piano Cover by Pianistmiri imiri			piano			0	3.0	1.09861228867	piano	cover	live	cover	live	nothing	cover	cover	live
+d1wQlvMf8V4	80	train	50 ways to say goodbye	Comparison - Train's 50 Ways To Say Goodbye & Phantom Of The Opera		opera/opera				1	17.0	2.83321334406	remix	official	slides	remix	still	nothing	cover	cover	live
+WNPSFBCRdmY	80	train	50 ways to say goodbye	Train- 50 Ways to Say Goodbye (with lyrics)						1	18.0	2.8903717579	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+nou2PY20bb4	80	train	50 ways to say goodbye	Lunafly in Brazil - 50 ways to say goodbye (by Train)				brazil		1	18.0	2.8903717579	concert	live	live	live	live	nothing	live	remix	live
+Zw6Lc9oZAmc	80	train	50 ways to say goodbye	50 Ways to say goodbye by Train guitar tutorial			guitar			1	19.0	2.94443897917	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	cover	tutorial
+kx7IttPypBA	80	train	50 ways to say goodbye	Train - 50 Ways to Say Goodbye (Lyrics)						1	19.0	2.94443897917	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+E0WCYGGO4fc	80	train	50 ways to say goodbye	Train - 50 Ways to Say Goodbye Piano Sheet Music [Teaser]			piano			1	20.0	2.99573227355	piano	cover	other	cover	live	nothing	cover	remix	live
+LPSpokMRP10	80	train	50 ways to say goodbye	Train - Intro/50 Ways to Say Goodbye (Live)						1	21.0	3.04452243772	concert	live	live	live	live	nothing	live	remix	live
+aZZOGELQvYg	80	train	50 ways to say goodbye	50 Ways To Say Goodbye - Train (Drum Cover) Studio Quality			drum			1	21.0	3.04452243772	cover	cover	live	cover	live	nothing	cover	cover	live
+q9nsn1FzrE4	80	train	50 ways to say goodbye	50 Ways to Say Goodbye Piano Cover (Train)			piano			1	21.0	3.04452243772	piano	cover	live	cover	live	nothing	cover	remix	live
+2kCwHwrjs9c	80	train	50 ways to say goodbye	Train - 50 Ways To Say Goodbye Piano Tutorial			piano			1	21.0	3.04452243772	tutorial	cover	tutorial	tutorial	tutorial	nothing	cover	remix	tutorial
+rUwM3Kyl694	80	train	50 ways to say goodbye	50 Ways To Say Goodbye - Train						1	22.0	3.09104245336	concert	live	live	live	live	nothing	live	live	live
+DyJt6brkU8c	80	train	50 ways to say goodbye	50 ways to say goodbye by Train piano cover			piano			1	22.0	3.09104245336	piano	cover	live	cover	live	nothing	cover	remix	live
+GwBbTA-fcqo	80	train	50 ways to say goodbye	50 ways to say goodbye.						5	100.0	4.60517018599	choreo	official	dance	official	dance	nothing	official	official	dance
+F2YgU98sNis	80	train	50 ways to say goodbye	Train Performs '50 Ways to Say Goodbye' at KDWB's Jingle Ball 2012!	ball				2012	5	103.0	4.63472898823	concert	live	live	live	live	nothing	live	live	live
+_yQesbOL3mE	80	train	50 ways to say goodbye	"Train ""50 Ways to Say Goodbye"" The Fillmore 4.15.12 Brian Switzer Trumpet"	brian		trumpet			5	103.0	4.63472898823	tutorial	live	live	tutorial	tutorial	nothing	cover	remix	live
+c6t3ZzH4ey0	80	train	50 ways to say goodbye	Train - 50 Ways To Say Goodbye Fan Video						5	106.0	4.66343909411	karaoke	official	other	instrumental	karaoke	nothing	cover	official	other
+H0LLzQ080IY	80	train	50 ways to say goodbye	"Train""50 Ways to Say Goodbye"" Coke Zero 400 Daytona  7.7.12  Brian Switzer trumpet"	brian		trumpet			5	106.0	4.66343909411	tutorial	live	live	tutorial	tutorial	nothing	cover	remix	live
+_oLNO8pMO68	80	train	50 ways to say goodbye	Train - 50 Ways To Say Goodbye - Hammersmith Apollo						5	108.0	4.68213122712	remix	live	live	remix	still	nothing	live	live	live
+_fFJzIsQT4Y	80	train	50 ways to say goodbye	xmadysenx: Train - 50 Ways To Say Goodbye -- COVER						15	290.0	5.66988092298	cover	cover	still	cover	live	nothing	cover	cover	live
+27MINXwrtBw	80	train	50 ways to say goodbye	Train - 50 Ways To Say Goodbye - COVER by ryanstephen						15	301.0	5.70711026475	tutorial	cover	live	tutorial	tutorial	nothing	cover	cover	live
+OQ6F0e-fT7Q	80	train	50 ways to say goodbye	Train - 50 Ways To Say Goodbye - COVER by mikaylaplummer						15	303.0	5.71373280551	tutorial	cover	live	tutorial	tutorial	nothing	cover	cover	live
+sENM2wA_FTg	90	imagine dragons	it's time	Imagine Dragons - It's Time						0	1.0	0.0	title/artist	official	official	official	official	official	official	official	official
+4zvvQqXgBb8	90	imagine dragons	it's time	Imagine Dragon - It's Time (Piano Cover) by LittleTranscriber			piano			0	1.0	0.0	piano	cover	tutorial	cover	live	nothing	cover	cover	live
+25j0RIdXoL4	90	imagine dragons	it's time	Imagine Dragons - It's Time (Live Baden Baden 2013)					2013	0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+V3LkQ3BUjWI	90	imagine dragons	it's time	"Imagine Dragons - ""It's Time"" | Music 2012 | SXSW"					2012	0	1.0	0.0	dance	live	other	official	dance	nothing	official	live	other
+IOatp-OCw3E	90	imagine dragons	it's time	Imagine Dragons - It's Time (Lyrics)						0	1.0	0.0	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+06sti59dEAA	90	imagine dragons	it's time	It's Time - Karaoke HD (In the style of Imagine Dragons)						0	1.0	0.0	karaoke	instrumental	karaoke	instrumental	karaoke	nothing	instrumental	instrumental	karaoke
+_RLNBW_8vG0	90	imagine dragons	it's time	It's Time - Imagine Dragons - Guitar Lesson Tutorial Chords			guitar			0	1.0	0.0	guitar	tutorial	tutorial	cover	live	nothing	tutorial	tutorial	tutorial
+9SS80V8-H54	90	imagine dragons	it's time	Como tocar It's Time de Imagine Dragons en guitarra acordes y ritmo tutorial COMPLETO facil						0	1.0	0.0	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+khdrz5YPVNc	90	imagine dragons	it's time	It's Time						0	1.0	0.0	choreo	official	dance	official	dance	nothing	official	official	dance
+EngTFUq6T_o	90	imagine dragons	it's time	Imagine Dragons Live -  It's Time at O2 Academy Brixton						0	1.0	0.0	live	live	live	live	live	nothing	live	live	live
+49-wNRvJwjk	90	imagine dragons	it's time	Imagine Dragons - It's Time (Acoustic From The Occidental Saloon)						0	1.0	0.0	cover	live	live	cover	live	nothing	cover	cover	other
+dMnhudF3nMk	90	imagine dragons	it's time	Imagine Dragons - It's Time (Matoma Remix)						0	1.0	0.0	remix	remix	still	remix	still	nothing	remix	remix	still
+-w-1XwwRuiI	90	imagine dragons	it's time	Imagine Dragons - It's Time | Piano Cover by Pianistmiri imiri			piano			0	2.0	0.69314718056	piano	cover	live	cover	live	nothing	cover	cover	live
+h2zQH2ewIyA	90	imagine dragons	it's time	Imagine Dragons - It's Time (Jailbreaks Remix)						0	2.0	0.69314718056	remix	remix	other	remix	still	nothing	remix	remix	other
+vOh9AGskuQY	90	imagine dragons	it's time	It's Time - Imagine Dragons						0	2.0	0.69314718056	choreo	official	dance	official	dance	nothing	official	official	dance
+K6tRwnrmhSA	90	imagine dragons	it's time	It's Time- Guitar Lesson- Imagine Dragons  (Todd Downing)	todd		guitar			0	2.0	0.69314718056	tutorial	tutorial	tutorial	tutorial	tutorial	nothing	tutorial	tutorial	tutorial
+Niw-hi0TY0M	90	imagine dragons	it's time	It's Time - Imagine Dragons Lyric Video						0	2.0	0.69314718056	lyrics	official	lyric	official	lyric	nothing	official	official	lyric
+6CskHY7k3vo	90	imagine dragons	it's time	Imagine Dragons - It's Time (Acoustic At SXSW (FILTER))						0	2.0	0.69314718056	guitar	live	live	cover	live	nothing	cover	cover	live
+lICPsxNo58g	90	imagine dragons	it's time	"Juno - ""It's Time"" (to dance) - Imagine Dragons"						0	3.0	1.09861228867	dance	official	dance	official	dance	nothing	official	official	dance
+2vfk0zPjsr4	90	imagine dragons	it's time	It's Time- Imagine Dragons (Lulu Antariksa Cover)	lulu					0	3.0	1.09861228867	cover	cover	live	cover	live	nothing	cover	cover	other
+E0qbSp_bOGU	90	imagine dragons	it's time	Imagine Dragons - It's Time (Roial Remix)						1	12.0	2.48490664979	remix	remix	still	remix	still	nothing	remix	remix	still
+-u3H5tRriOE	90	imagine dragons	it's time	It's Time ~ Imagine Dragons Concert in Boston				boston		1	19.0	2.94443897917	concert	live	live	live	live	nothing	live	live	live
+V7-FsLbh_S8	90	imagine dragons	it's time	Imagine Dragons - It's Time (Matoma Tropical Remix)						1	20.0	2.99573227355	remix	remix	still	remix	still	nothing	remix	remix	still
+tP3fJkvI3XA	90	imagine dragons	it's time	Imagine Dragons - It's Time (NEW PIANO VERSION)			piano			1	20.0	2.99573227355	piano	cover	live	cover	live	nothing	cover	cover	live
+VvHP8GWDPHY	90	imagine dragons	it's time	It's Time by Imagine Dragons (w/ visuals)						1	21.0	3.04452243772	title/artist	official	other	official	official	nothing	official	official	other
+tMr_BSGhC08	90	imagine dragons	it's time	1-21-15 NJHS Newark Junior High School Combined Groups - It's Time by Imagine Dragons High View	junior			newark & high		1	21.0	3.04452243772	choreo	live	live	official	dance	nothing	official	cover	dance
+B-4qaP3i2lk	90	imagine dragons	it's time	Violin - It's Time - Imagine Dragons Sheet Music  Chords  & Vocals			violin			1	22.0	3.09104245336	tutorial	cover	tutorial	tutorial	tutorial	nothing	cover	cover	tutorial
+xFziRrT8a5o	90	imagine dragons	it's time	Imagine Dragons - Fingerstyle Guitar Cover (5 songs) - Radioactive  It's Time  etc.			guitar			1	22.0	3.09104245336	guitar	cover	live	cover	live	nothing	cover	cover	live
+YmcQuWcQdlg	90	imagine dragons	it's time	Imagine Dragons -It's Time (live in Boise  Idaho)				boise & idaho		1	23.0	3.13549421593	concert	live	live	live	live	nothing	live	live	live
+Vj2m-A2_vkQ	90	imagine dragons	it's time	Imagine Dragons-It's Time-Piano Cover			piano			1	23.0	3.13549421593	piano	cover	live	cover	live	nothing	cover	cover	live
+cWvz1pk4KcU	90	imagine dragons	it's time	Imagine Dragons - It's Time / Piano Cover by Nelson Y	nelson		piano			1	24.0	3.17805383035	piano	cover	live	cover	live	nothing	cover	cover	live
+LPkuJflIGEk	90	imagine dragons	it's time	Imagine Dragons - It's Time (Matoma Tropical Remix)						1	24.0	3.17805383035	dance	remix	still	official	dance	nothing	remix	remix	still
+vUEn7y4Bonk	90	imagine dragons	it's time	1-21-15 NJHS Newark Junior High School Combined Groups - It's Time by Imagine Dragons Close View	junior			newark & high		1	24.0	3.17805383035	choreo	live	live	official	dance	nothing	official	cover	dance
+Jqzvozs747k	90	imagine dragons	it's time	It's Time - Imagine Dragons | Cup Cover						1	25.0	3.21887582487	tutorial	cover	live	tutorial	tutorial	nothing	cover	cover	live
+JVmRyBG0QOc	90	imagine dragons	it's time	It's Time - Imagine Dragons - Guitar Fingerstyle			guitar			1	27.0	3.295836866	guitar	cover	live	cover	live	nothing	cover	cover	live
+Q-eV72xZddA	90	imagine dragons	it's time	Imagine Dragons - It's Time (Vampy Remix)						1	28.0	3.33220451018	remix	remix	still	remix	still	nothing	remix	remix	still
+MrZaTeYon7Q	90	imagine dragons	it's time	Imagine Dragons - It's Time (Matoma Tropical Remix)						5	29.0	3.36729582999	remix	remix	still	remix	still	nothing	remix	remix	still
+lQLQCwUGN4E	90	imagine dragons	it's time	Imagine Dragons - It's Time /live/ @ Sziget Festival 2014  Budapest  13.08.2014				budapest	2014	1	33.0	3.49650756147	live	live	live	live	live	nothing	live	live	live
+JYKTd_fhOXg	90	imagine dragons	it's time	Imagine Dragons - It's Time (Live in Singapore)				singapore		1	34.0	3.52636052462	live	live	live	live	live	nothing	live	live	live
+GfYF-0DJO0M	90	imagine dragons	it's time	Imagine Dragons - It's Time (Matoma Tropical Remix)						5	36.0	3.58351893846	remix	remix	still	remix	still	nothing	remix	remix	still
+VLimKt9N_wc	90	imagine dragons	it's time	It's time  Imagine Dragons cup song cover!	song					5	97.0	4.5747109785	cover	cover	live	cover	live	nothing	remix	cover	live
+6-FSRRKNZaE	90	imagine dragons	it's time	Imagine Dragons - It's Time (Live in Moscow)				moscow		5	99.0	4.59511985013	live	live	live	live	live	nothing	live	live	live
+QcddbyEmEhw	90	imagine dragons	it's time	It's Time - Imagine Dragons (Sandlot Heroes cover)						5	100.0	4.60517018599	cover	cover	live	cover	live	nothing	cover	cover	live
+dzMktAIQhG8	90	imagine dragons	it's time	Imagine Dragons It's time at Belsonic						5	233.0	5.45103845357	concert	live	live	live	live	nothing	live	live	live
+ehvsz4EbczY	90	imagine dragons	it's time	Imagine Dragons- It's Time (Live at the Palace Of Auburn Hills)						15	265.0	5.57972982599	live	live	live	live	live	nothing	cover	live	live
+AlrOHRyWIOk	90	imagine dragons	it's time	It's Time - Imagine Dragons Live Las Vegas May 2014				las vegas	2014/5/1	15	293.0	5.68017260902	live	live	live	live	live	nothing	live	live	live
+R4QUpzCJTiI	90	imagine dragons	it's time	Imagine Dragons - It's Time (Cover by Zip Zap)						15	297.0	5.6937321388	cover	cover	live	cover	live	nothing	cover	cover	live
+pGlUxwTDWXc	90	imagine dragons	it's time	It's Time to Begin (Imagine Dragons) Live at Tulsa				tulsa		15	305.0	5.72031177661	live	live	live	live	live	nothing	live	live	live
